@@ -1,5 +1,5 @@
 # 724 Find pivot index
----
+
 找到一个数，其左边的数相之和于右边的数之和。
 1. brute force
 
