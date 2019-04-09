@@ -7,6 +7,7 @@ Java solutions of Leetcode
 |---| ----- | -------- | ---------- |
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [code](./array/spiralMatrix/SpiralMatrix.java)/[note](./array/spiralMatrix/SpiralMatrix.md) | Medium |
 |66|[Plus One](https://leetcode.com/problems/plus-one/) | [code](./array/plusOne/PlusOne.java)/[note](./array/plusOne/PlusOne.md) | Easy |
+|67|[Add Binary](https://leetcode.com/problems/add-binary/) | [code](./array/addBinary/AddBinary.java)/[note](./array/addBinary/AddBinary.md) | Easy |
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [code](./array/pascalsTriangle/PascalsTriangle.java)/[note](./array/pascalsTriangle/PascalsTriangle.md) | Easy |
 |498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | [code](./array/diagonalTraverse/DiagonalTraverse.java)/[note](./array/diagonalTraverse/DiagonalTraverse.md) | Medium |
 |724|[Find pivot index](https://leetcode.com/problems/find-pivot-index/) | [code](./array/findPivotIndex/FindPivotIndex.java)/[note](./array/findPivotIndex/FindPivotIndex.md) | Easy |
