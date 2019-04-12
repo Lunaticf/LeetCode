@@ -16,5 +16,6 @@ Java solutions of Leetcode
 ## String
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [code](./string/longestCommonPrefix/LongestCommonPrefix.java)/[note](./string/longestCommonPrefix/LongestCommonPrefix.md) | Easy |
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [code](./string/implementStrStr/ImplementStrStr.java)/[note](./string/implementStrStr/ImplementStrStr.md) | Easy |
 |67|[Add Binary](https://leetcode.com/problems/add-binary/) | [code](./string/addBinary/AddBinary.java)/[note](./string/addBinary/AddBinary.md) | Easy |
