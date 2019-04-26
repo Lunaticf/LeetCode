@@ -10,6 +10,7 @@ Java solutions of Leetcode
 |66|[Plus One](https://leetcode.com/problems/plus-one/) | [code](./array/plusOne/PlusOne.java)/[note](./array/plusOne/PlusOne.md) | Easy |
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [code](./array/pascalsTriangle/PascalsTriangle.java)/[note](./array/pascalsTriangle/PascalsTriangle.md) | Easy |
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [code](./array/twoSum2/TwoSum2.java)/[note](./array/twoSum2/TwoSum2.md) | Easy |
+|485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [code](./array/maxConsecutiveOnes/MaxConsecutiveOnes.java)/[note](./array/maxConsecutiveOnes/MaxConsecutiveOnes.md) | Easy |
 |498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | [code](./array/diagonalTraverse/DiagonalTraverse.java)/[note](./array/diagonalTraverse/DiagonalTraverse.md) | Medium |
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/) | [code](./array/arrayPartition1/ArrayPartition1.java)/[note](./array/arrayPartition1/ArrayPartition1.md) | Easy |
 |724|[Find pivot index](https://leetcode.com/problems/find-pivot-index/) | [code](./array/findPivotIndex/FindPivotIndex.java)/[note](./array/findPivotIndex/FindPivotIndex.md) | Easy |
