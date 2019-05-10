@@ -5,6 +5,7 @@ Java solutions of Leetcode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [code](./array/removeDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.java)/[note](./array/removeDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.md) | Easy |
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [code](./array/removeElement/RemoveElement.java)/[note](./array/removeElement/RemoveElement.md) | Easy |
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [code](./array/spiralMatrix/SpiralMatrix.java)/[note](./array/spiralMatrix/SpiralMatrix.md) | Medium |
 |66|[Plus One](https://leetcode.com/problems/plus-one/) | [code](./array/plusOne/PlusOne.java)/[note](./array/plusOne/PlusOne.md) | Easy |
