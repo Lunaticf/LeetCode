@@ -14,6 +14,7 @@ Java solutions of Leetcode
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [code](./array/twoSum2/TwoSum2.java)/[note](./array/twoSum2/TwoSum2.md) | Easy |
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/) | [code](./array/rotateArray/RotateArray.java)/[note](./array/rotateArray/RotateArray.md) | Easy |
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [code](./array/minimumSizeSubarraySum/MinimumSizeSubarraySum.java)/[note](./array/minimumSizeSubarraySum/MinimumSizeSubarraySum.md) | Easy |
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [code](./array/moveZeroes/MoveZeroes.java)/[note](./array/moveZeroes/MoveZeroes.md) | Easy |
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [code](./array/maxConsecutiveOnes/MaxConsecutiveOnes.java)/[note](./array/maxConsecutiveOnes/MaxConsecutiveOnes.md) | Easy |
 |498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | [code](./array/diagonalTraverse/DiagonalTraverse.java)/[note](./array/diagonalTraverse/DiagonalTraverse.md) | Medium |
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/) | [code](./array/arrayPartition1/ArrayPartition1.java)/[note](./array/arrayPartition1/ArrayPartition1.md) | Easy |
