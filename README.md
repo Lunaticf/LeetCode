@@ -31,3 +31,8 @@ Java solutions of Leetcode
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [code](./string/reverseWordsInAString/ReverseWordsInAString.java)/[note](./string/reverseWordsInAString/ReverseWordsInAString.md) | Medium |
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [code](./string/reverseString/ReverseString.java)/[note](./string/reverseString/ReverseString.md) | Easy |
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [code](./string/reverseWordsInAString3/ReverseWordsInAString3.java)/[note](./string/reverseWordsInAString3/ReverseWordsInAString3.md) | Medium |
+
+## hashTable
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|705|[Design HashSet](https://leetcode.com/problems/design-hashset/) | [code](./hashTable/designHashSet/MyHashSet.java)/[note](./hashTable/designHashSet/MyHashSet.md) | Easy |
