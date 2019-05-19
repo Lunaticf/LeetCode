@@ -36,3 +36,4 @@ Java solutions of Leetcode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |705|[Design HashSet](https://leetcode.com/problems/design-hashset/) | [code](./hashTable/designHashSet/MyHashSet.java)/[note](./hashTable/designHashSet/MyHashSet.md) | Easy |
+|706|[Design HashMap](https://leetcode.com/problems/design-hashmap/) | [code](./hashTable/designHashMap/MyHashMap.java)/[note](./hashTable/designHashMap/MyHashMap.md) | Easy |
