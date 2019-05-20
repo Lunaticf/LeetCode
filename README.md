@@ -35,5 +35,6 @@ Java solutions of Leetcode
 ## hashTable
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [code](./hashTable/containsDuplicate/ContainsDuplicate.java)/[note](./hashTable/containsDuplicate/ContainsDuplicate.md) | Easy |
 |705|[Design HashSet](https://leetcode.com/problems/design-hashset/) | [code](./hashTable/designHashSet/MyHashSet.java)/[note](./hashTable/designHashSet/MyHashSet.md) | Easy |
 |706|[Design HashMap](https://leetcode.com/problems/design-hashmap/) | [code](./hashTable/designHashMap/MyHashMap.java)/[note](./hashTable/designHashMap/MyHashMap.md) | Easy |
