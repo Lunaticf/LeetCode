@@ -35,6 +35,7 @@ Java solutions of Leetcode
 ## hashTable
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [code](./hashTable/twoSum/TwoSum.java)/[note](./hashTable/twoSum/TwoSum.md) | Easy |
 |136|[Single Number](https://leetcode.com/problems/single-number/) | [code](./hashTable/singleNumber/SingleNumber.java)/[note](./hashTable/singleNumber/SingleNumber.md) | Easy |
 |202|[Happy Number](https://leetcode.com/problems/happy-number/) | [code](./hashTable/happyNumber/HappyNumber.java)/[note](./hashTable/happyNumber/HappyNumber.md) | Easy |
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [code](./hashTable/containsDuplicate/ContainsDuplicate.java)/[note](./hashTable/containsDuplicate/ContainsDuplicate.md) | Easy |
