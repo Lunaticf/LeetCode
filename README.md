@@ -38,6 +38,7 @@ Java solutions of Leetcode
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [code](./hashTable/twoSum/TwoSum.java)/[note](./hashTable/twoSum/TwoSum.md) | Easy |
 |136|[Single Number](https://leetcode.com/problems/single-number/) | [code](./hashTable/singleNumber/SingleNumber.java)/[note](./hashTable/singleNumber/SingleNumber.md) | Easy |
 |202|[Happy Number](https://leetcode.com/problems/happy-number/) | [code](./hashTable/happyNumber/HappyNumber.java)/[note](./hashTable/happyNumber/HappyNumber.md) | Easy |
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [code](./hashTable/isomorphicStrings/IsomorphicStrings.java)/[note](./hashTable/isomorphicStrings/IsomorphicStrings.md) | Easy |
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [code](./hashTable/containsDuplicate/ContainsDuplicate.java)/[note](./hashTable/containsDuplicate/ContainsDuplicate.md) | Easy |
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [code](./hashTable/intersectionOfTwoArrays/IntersectionOfTwoArrays.java)/[note](./hashTable/intersectionOfTwoArrays/IntersectionOfTwoArrays.md) | Easy |
 |705|[Design HashSet](https://leetcode.com/problems/design-hashset/) | [code](./hashTable/designHashSet/MyHashSet.java)/[note](./hashTable/designHashSet/MyHashSet.md) | Easy |
