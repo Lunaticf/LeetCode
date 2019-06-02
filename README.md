@@ -36,6 +36,7 @@ Java solutions of Leetcode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [code](./hashTable/twoSum/TwoSum.java)/[note](./hashTable/twoSum/TwoSum.md) | Easy |
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [code](./hashTable/groupAnagrams/GroupAnagrams.java)/[note](./hashTable/groupAnagrams/GroupAnagrams.md) | Medium |
 |136|[Single Number](https://leetcode.com/problems/single-number/) | [code](./hashTable/singleNumber/SingleNumber.java)/[note](./hashTable/singleNumber/SingleNumber.md) | Easy |
 |202|[Happy Number](https://leetcode.com/problems/happy-number/) | [code](./hashTable/happyNumber/HappyNumber.java)/[note](./hashTable/happyNumber/HappyNumber.md) | Easy |
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [code](./hashTable/isomorphicStrings/IsomorphicStrings.java)/[note](./hashTable/isomorphicStrings/IsomorphicStrings.md) | Easy |
