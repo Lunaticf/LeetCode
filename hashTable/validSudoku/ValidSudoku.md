@@ -1,0 +1,3 @@
+## 36. Valid Sudoku
+brute force...
+hhh一开始写的太蠢了 参考评论区大佬的解法非常简洁
