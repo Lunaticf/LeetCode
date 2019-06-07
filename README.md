@@ -36,6 +36,7 @@ Java solutions of Leetcode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [code](./hashTable/twoSum/TwoSum.java)/[note](./hashTable/twoSum/TwoSum.md) | Easy |
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [code](./hashTable/longestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.java)/[note](./hashTable/longestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.md) | Medium |
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [code](./hashTable/validSudoku/ValidSudoku.java)/[note](./hashTable/validSudoku/ValidSudoku.md) | Medium |
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [code](./hashTable/groupAnagrams/GroupAnagrams.java)/[note](./hashTable/groupAnagrams/GroupAnagrams.md) | Medium |
 |136|[Single Number](https://leetcode.com/problems/single-number/) | [code](./hashTable/singleNumber/SingleNumber.java)/[note](./hashTable/singleNumber/SingleNumber.md) | Easy |
