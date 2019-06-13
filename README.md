@@ -55,3 +55,8 @@ Java solutions of Leetcode
 |705|[Design HashSet](https://leetcode.com/problems/design-hashset/) | [code](./hashTable/designHashSet/MyHashSet.java)/[note](./hashTable/designHashSet/MyHashSet.md) | Easy |
 |706|[Design HashMap](https://leetcode.com/problems/design-hashmap/) | [code](./hashTable/designHashMap/MyHashMap.java)/[note](./hashTable/designHashMap/MyHashMap.md) | Easy |
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [code](./hashTable/jewelsAndStones/JewelsAndStones.java)/[note](./hashTable/jewelsAndStones/JewelsAndStones.md) | Easy |
+
+## Recursion
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [code](./recursion/swapNodesInPairs/SwapNodesInPairs.java)/[note](./recursion/swapNodesInPairs/SwapNodesInPairs.md) | Medium |

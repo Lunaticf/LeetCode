@@ -11,4 +11,17 @@ public class ReverseString {
             i++;j--;
         }
     }
+
+    // recursion
+    public void reverseString1(char[] s) {
+        helper(0, s.length - 1, s);
+    }
+
+    private void helper(int i, int j, char[] s) {
+        if (i >= j) return;
+        char temp = s[i];
+        s[i] = s[j];
+        s[j] = temp;
+        helper(++i, --j, s);
+    }
 }
