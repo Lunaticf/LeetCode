@@ -1,9 +1,7 @@
 package LeetCode.hashTable.topKFrequentElements;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.List;
+import java.lang.reflect.InvocationTargetException;
+import java.util.*;
 
 public class TopKFrequentElements {
     public List<Integer> topKFrequent(int[] nums, int k) {
@@ -31,6 +29,30 @@ public class TopKFrequentElements {
             if (bucket[i] != null) {
                 res.addAll(bucket[i]);
             }
+        }
+
+        return res;
+    }
+
+    // priorityQueue
+    public List<Integer> topKFrequent1(int[] nums, int k) {
+        Map<Integer, Integer> map = new HashMap<>();
+        // 统计频率
+        for (int num : nums) {
+            map.put(num, map.getOrDefault(num, 0) + 1);
+        }
+
+        PriorityQueue<Map.Entry<Integer, Integer>> maxHeap = new PriorityQueue<>((a, b) -> (
+            b.getValue() - a.getValue()
+        ));
+
+        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
+            maxHeap.add(entry);
+        }
+
+        List<Integer> res = new ArrayList<>();
+        while (res.size() < k) {
+            res.add(maxHeap.poll().getKey());
         }
 
         return res;
