@@ -55,4 +55,30 @@ public class PascalsTriangle {
 
         return res;
     }
+
+    private int[][] memo;
+
+    // recursion
+    public List<List<Integer>> generate2(int numRows) {
+        memo = new int[numRows+1][numRows+1];
+
+        List<List<Integer>> res = new ArrayList<>();
+        // 对每一行
+        for (int i = 1; i <= numRows; i++) {
+            // 每一个元素
+            List<Integer> row = new ArrayList<>();
+            for (int j = 1; j <= i; j++) {
+                row.add(helper(i, j));
+            }
+            res.add(row);
+        }
+        return res;
+    }
+
+    private int helper(int i, int j) {
+        if (i == j || j == 1) return 1;
+        if (memo[i][j] != 0) return memo[i][j];
+        memo[i][j] =  helper(i - 1, j) + helper(i - 1, j - 1);
+        return memo[i][j];
+    }
 }
