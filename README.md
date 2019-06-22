@@ -60,6 +60,7 @@ Java solutions of Leetcode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [code](./recursion/swapNodesInPairs/SwapNodesInPairs.java)/[note](./recursion/swapNodesInPairs/SwapNodesInPairs.md) | Medium |
+|50|[Pow(x, n)](https://leetcode.com/problems/powx-n/) | [code](./recursion/powxn/Powxn.java)/[note](./recursion/powxn/Powxn.md) | Medium |
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [code](./recursion/climbingStairs/ClimbingStairs.java)/[note](./recursion/climbingStairs/ClimbingStairs.md) | Easy |
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [code](./recursion/maximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.java)/[note](./recursion/maximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.md) | Easy |
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [code](./recursion/reverseLinkedList/ReverseLinkedList.java)/[note](./recursion/reverseLinkedList/ReverseLinkedList.md) | Easy |
