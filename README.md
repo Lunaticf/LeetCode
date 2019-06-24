@@ -59,6 +59,7 @@ Java solutions of Leetcode
 ## Recursion
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [code](./recursion/mergeTwoSortedLists/MergeTwoSortedLists.java)/[note](./recursion/mergeTwoSortedLists/MergeTwoSortedLists.md) | Easy |
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [code](./recursion/swapNodesInPairs/SwapNodesInPairs.java)/[note](./recursion/swapNodesInPairs/SwapNodesInPairs.md) | Medium |
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/) | [code](./recursion/powxn/Powxn.java)/[note](./recursion/powxn/Powxn.md) | Medium |
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [code](./recursion/climbingStairs/ClimbingStairs.java)/[note](./recursion/climbingStairs/ClimbingStairs.md) | Easy |
