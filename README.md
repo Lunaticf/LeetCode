@@ -66,3 +66,4 @@ Java solutions of Leetcode
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [code](./recursion/maximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.java)/[note](./recursion/maximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.md) | Easy |
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [code](./recursion/reverseLinkedList/ReverseLinkedList.java)/[note](./recursion/reverseLinkedList/ReverseLinkedList.md) | Easy |
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [code](./recursion/fibonacciNumber/FibonacciNumber.java)/[note](./recursion/fibonacciNumber/FibonacciNumber.md) | Easy |
+|779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) | [code](./recursion/kthSymbolInGrammar/KthSymbolInGrammar.java)/[note](./recursion/kthSymbolInGrammar/KthSymbolInGrammar.md) | Medium |
