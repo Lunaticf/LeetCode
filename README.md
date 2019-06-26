@@ -68,3 +68,8 @@ Java solutions of Leetcode
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [code](./recursion/reverseLinkedList/ReverseLinkedList.java)/[note](./recursion/reverseLinkedList/ReverseLinkedList.md) | Easy |
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [code](./recursion/fibonacciNumber/FibonacciNumber.java)/[note](./recursion/fibonacciNumber/FibonacciNumber.md) | Easy |
 |779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) | [code](./recursion/kthSymbolInGrammar/KthSymbolInGrammar.java)/[note](./recursion/kthSymbolInGrammar/KthSymbolInGrammar.md) | Medium |
+
+## Tree
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [code](./tree/binaryTreePreorderTraversal/BinaryTreePreorderTraversal.java)/[note](./tree/binaryTreePreorderTraversal/BinaryTreePreorderTraversal.md) | Medium |
