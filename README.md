@@ -72,5 +72,6 @@ Java solutions of Leetcode
 ## Tree
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [code](./tree/symmetricTree/SymmetricTree.java)/[note](./tree/symmetricTree/SymmetricTree.md) | Easy |
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [code](./tree/binaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.java)/[note](./tree/binaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.md) | Medium |
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [code](./tree/binaryTreePreorderTraversal/BinaryTreePreorderTraversal.java)/[note](./tree/binaryTreePreorderTraversal/BinaryTreePreorderTraversal.md) | Medium |
