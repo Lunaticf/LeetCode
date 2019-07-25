@@ -81,3 +81,8 @@ Java solutions of Leetcode
 |112|[Path Sum](https://leetcode.com/problems/path-sum/) | [code](./tree/pathSum/PathSum.java)/[note](tree/pathSum/PathSum.md) | Easy |
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [code](./tree/flattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.java)/[note](tree/flattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.md) | Medium |
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [code](./tree/binaryTreePreorderTraversal/BinaryTreePreorderTraversal.java)/[note](tree/binaryTreePreorderTraversal/BinaryTreePreorderTraversal.md) | Medium |
+
+## Math
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|458|[Poor Pigs](https://leetcode.com/problems/poor-pigs/) | [code](./math/poorPigs/PoorPigs.java)/[note](./math/poorPigs/PoorPigs.md) | Hard |
