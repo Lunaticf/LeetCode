@@ -92,4 +92,4 @@ Java solutions of Leetcode
 ## Bit
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|338|[Counting Bits](https://leetcode.com/problems/counting-bits/) | [code](./bit/countingBits/CountingBits.java)/[note](./bit/countingBits/CountingBits.md) | Hard |
+|338|[Counting Bits](https://leetcode.com/problems/counting-bits/) | [code](./bit/countingBits/CountingBits.java)/[note](./bit/countingBits/CountingBits.md) | Medium |
