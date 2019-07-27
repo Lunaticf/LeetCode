@@ -87,3 +87,9 @@ Java solutions of Leetcode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |458|[Poor Pigs](https://leetcode.com/problems/poor-pigs/) | [code](./math/poorPigs/PoorPigs.java)/[note](./math/poorPigs/PoorPigs.md) | Hard |
+
+
+## Bit
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|338|[Counting Bits](https://leetcode.com/problems/counting-bits/) | [code](./bit/countingBits/CountingBits.java)/[note](./bit/countingBits/CountingBits.md) | Hard |
