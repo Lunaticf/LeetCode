@@ -95,3 +95,8 @@ Java solutions of Leetcode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/) | [code](./bit/countingBits/CountingBits.java)/[note](./bit/countingBits/CountingBits.md) | Medium |
+
+## Dynamic Programming
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [code](./dynamicProgramming/minimumPathSum/MinimumPathSum.java)/[note](./dynamicProgramming/minimumPathSum/MinimumPathSum.md) | Medium |
