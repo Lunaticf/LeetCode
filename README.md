@@ -101,3 +101,4 @@ Java solutions of Leetcode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [code](./dynamicProgramming/minimumPathSum/MinimumPathSum.java)/[note](./dynamicProgramming/minimumPathSum/MinimumPathSum.md) | Medium |
+|279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [code](./dynamicProgramming/perfectSquares/PerfectSquares.java)/[note](./dynamicProgramming/perfectSquares/PerfectSquares.md) | Medium |
