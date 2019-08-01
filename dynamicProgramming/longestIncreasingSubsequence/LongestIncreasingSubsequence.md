@@ -11,7 +11,7 @@
     
     F[i] = Math.max(F[0]...F[i-1] if num[i] > num[0..i-1])
 - 所谓耐心排序
-    
+    O(NlogN) 贼强
 
 一篇讲的还不错的博客
 https://segmentfault.com/a/1190000003819886
