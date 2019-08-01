@@ -102,3 +102,4 @@ Java solutions of Leetcode
 |---| ----- | -------- | ---------- |
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [code](./dynamicProgramming/minimumPathSum/MinimumPathSum.java)/[note](./dynamicProgramming/minimumPathSum/MinimumPathSum.md) | Medium |
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [code](./dynamicProgramming/perfectSquares/PerfectSquares.java)/[note](./dynamicProgramming/perfectSquares/PerfectSquares.md) | Medium |
+|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [code](./dynamicProgramming/longestIncreasingSubsequence/LongestIncreasingSubsequence.java)/[note](./dynamicProgramming/longestIncreasingSubsequence/LongestIncreasingSubsequence.md) | Medium |
