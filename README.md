@@ -101,5 +101,7 @@ Java solutions of Leetcode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [code](./dynamicProgramming/minimumPathSum/MinimumPathSum.java)/[note](./dynamicProgramming/minimumPathSum/MinimumPathSum.md) | Medium |
+|198|[House Robber](https://leetcode.com/problems/house-robber/) | [code](./dynamicProgramming/houseRobber/HouseRobber.java)/[note](./dynamicProgramming/houseRobber/HouseRobber.md) | Easy |
+|213|[House Robber II](https://leetcode.com/problems/house-robber-ii/) | [code](./dynamicProgramming/houseRobber2/HouseRobber2.java)/[note](./dynamicProgramming/houseRobber2/HouseRobber2.md) | Medium |
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [code](./dynamicProgramming/perfectSquares/PerfectSquares.java)/[note](./dynamicProgramming/perfectSquares/PerfectSquares.md) | Medium |
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [code](./dynamicProgramming/longestIncreasingSubsequence/LongestIncreasingSubsequence.java)/[note](./dynamicProgramming/longestIncreasingSubsequence/LongestIncreasingSubsequence.md) | Medium |
