@@ -108,4 +108,6 @@ Java solutions of Leetcode
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [code](./dynamicProgramming/longestIncreasingSubsequence/LongestIncreasingSubsequence.java)/[note](./dynamicProgramming/longestIncreasingSubsequence/LongestIncreasingSubsequence.md) | Medium |
 
 ## Stack and Queue
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/) | [code](./stackAndQueue/simplifyPath/SimplifyPath.java)/[note](./stackAndQueue/simplifyPath/SimplifyPath.md) | Medium |
