@@ -111,3 +111,9 @@ Java solutions of Leetcode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/) | [code](./stackAndQueue/simplifyPath/SimplifyPath.java)/[note](./stackAndQueue/simplifyPath/SimplifyPath.md) | Medium |
+
+
+## Backtracking
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [code](./backtracking/restoreIPAddresses/RestoreIPAddresses.java)/[note](./backtracking/restoreIPAddresses/RestoreIPAddresses.md) | Medium |
