@@ -21,4 +21,15 @@ public class FirstUniqueCharacterInAString {
         }
         return -1;
      }
+
+    public int firstUniqChar1(String s) {
+        for (int i = 0; i < s.length(); i++) {
+            char c = s.charAt(i);
+            if (s.indexOf(c) == s.lastIndexOf(c)) {
+                return i;
+
+            }
+        }
+        return -1;
+    }
 }
