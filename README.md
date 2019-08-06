@@ -106,6 +106,9 @@ Java solutions of Leetcode
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/) | [code](./dynamicProgramming/houseRobber2/HouseRobber2.java)/[note](./dynamicProgramming/houseRobber2/HouseRobber2.md) | Medium |
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [code](./dynamicProgramming/perfectSquares/PerfectSquares.java)/[note](./dynamicProgramming/perfectSquares/PerfectSquares.md) | Medium |
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [code](./dynamicProgramming/longestIncreasingSubsequence/LongestIncreasingSubsequence.java)/[note](./dynamicProgramming/longestIncreasingSubsequence/LongestIncreasingSubsequence.md) | Medium |
+|139|[Word Break](https://leetcode.com/problems/word-break/) | [code](./dynamicProgramming/wordBreak/WordBreak.java)/[note](./dynamicProgramming/wordBreak/WordBreak.md) | Medium |
+
+
 
 ## Stack and Queue
 | # | Title | Solution | Difficulty |
