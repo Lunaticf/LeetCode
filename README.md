@@ -90,6 +90,7 @@ Java solutions of Leetcode
 ## Math
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [code](./math/reverseInteger/ReverseInteger.java)/[note](./math/reverseInteger/ReverseInteger.md) | Easy |
 |458|[Poor Pigs](https://leetcode.com/problems/poor-pigs/) | [code](./math/poorPigs/PoorPigs.java)/[note](./math/poorPigs/PoorPigs.md) | Hard |
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/) | [code](./math/divisorGame/DivisorGame.java)/[note](./math/divisorGame/DivisorGame.md) | Easy |
 
