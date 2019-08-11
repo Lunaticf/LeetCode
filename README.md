@@ -117,6 +117,7 @@ Java solutions of Leetcode
 ## Stack and Queue
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [code](./stackAndQueue/validParentheses/ValidParentheses.java)/[note](./stackAndQueue/validParentheses/ValidParentheses.md) | Easy |
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/) | [code](./stackAndQueue/simplifyPath/SimplifyPath.java)/[note](./stackAndQueue/simplifyPath/SimplifyPath.md) | Medium |
 
 
