@@ -10,6 +10,7 @@ Java solutions of Leetcode
 |---| ----- | -------- | ---------- |
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [code](./array/removeDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.java)/[note](array/removeDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.md) | Easy |
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [code](./array/removeElement/RemoveElement.java)/[note](array/removeElement/RemoveElement.md) | Easy |
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [code](./array/searchInsertPosition/SearchInsertPosition.java)/[note](array/searchInsertPosition/SearchInsertPosition.md) | Easy |
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [code](./array/spiralMatrix/SpiralMatrix.java)/[note](array/spiralMatrix/SpiralMatrix.md) | Medium |
 |66|[Plus One](https://leetcode.com/problems/plus-one/) | [code](./array/plusOne/PlusOne.java)/[note](array/plusOne/PlusOne.md) | Easy |
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [code](./array/pascalsTriangle/PascalsTriangle.java)/[note](array/pascalsTriangle/PascalsTriangle.md) | Easy |
