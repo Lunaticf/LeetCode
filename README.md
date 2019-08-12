@@ -107,6 +107,7 @@ Java solutions of Leetcode
 ## Dynamic Programming
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [code](./dynamicProgramming/maximumSubarray/MaximumSubarray.java)/[note](./dynamicProgramming/maximumSubarray/MaximumSubarray.md) | Easy |
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [code](./dynamicProgramming/minimumPathSum/MinimumPathSum.java)/[note](./dynamicProgramming/minimumPathSum/MinimumPathSum.md) | Medium |
 |198|[House Robber](https://leetcode.com/problems/house-robber/) | [code](./dynamicProgramming/houseRobber/HouseRobber.java)/[note](./dynamicProgramming/houseRobber/HouseRobber.md) | Easy |
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/) | [code](./dynamicProgramming/houseRobber2/HouseRobber2.java)/[note](./dynamicProgramming/houseRobber2/HouseRobber2.md) | Medium |
