@@ -36,6 +36,7 @@ Java solutions of Leetcode
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [code](./string/longestCommonPrefix/LongestCommonPrefix.java)/[note](string/longestCommonPrefix/LongestCommonPrefix.md) | Easy |
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [code](./string/implementStrStr/ImplementStrStr.java)/[note](string/implementStrStr/ImplementStrStr.md) | Easy |
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/) | [code](./string/countAndSay/CountAndSay.java)/[note](string/countAndSay/CountAndSay.md) | Easy |
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [code](./string/lengthOfLastWord/LengthOfLastWord.java)/[note](string/lengthOfLastWord/LengthOfLastWord.md) | Easy |
 |67|[Add Binary](https://leetcode.com/problems/add-binary/) | [code](./string/addBinary/AddBinary.java)/[note](string/addBinary/AddBinary.md) | Easy |
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [code](./string/reverseWordsInAString/ReverseWordsInAString.java)/[note](string/reverseWordsInAString/ReverseWordsInAString.md) | Medium |
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [code](./string/reverseString/ReverseString.java)/[note](string/reverseString/ReverseString.md) | Easy |
