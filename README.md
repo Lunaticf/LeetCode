@@ -125,6 +125,12 @@ Java solutions of Leetcode
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/) | [code](./stackAndQueue/simplifyPath/SimplifyPath.java)/[note](./stackAndQueue/simplifyPath/SimplifyPath.md) | Medium |
 
 
+## LinkedList
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [code](./linkedList/removeDuplicatesFromSortedList/RemoveDuplicatesFromSortedList.java)/[note](./linkedList/removeDuplicatesFromSortedList/RemoveDuplicatesFromSortedList.md) | Easy |
+
+
 ## Backtracking
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
