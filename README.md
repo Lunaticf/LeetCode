@@ -13,6 +13,7 @@ Java solutions of Leetcode
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [code](./array/searchInsertPosition/SearchInsertPosition.java)/[note](array/searchInsertPosition/SearchInsertPosition.md) | Easy |
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [code](./array/spiralMatrix/SpiralMatrix.java)/[note](array/spiralMatrix/SpiralMatrix.md) | Medium |
 |66|[Plus One](https://leetcode.com/problems/plus-one/) | [code](./array/plusOne/PlusOne.java)/[note](array/plusOne/PlusOne.md) | Easy |
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [code](./array/mergeSortedArray/MergeSortedArray.java)/[note](array/mergeSortedArray/MergeSortedArray.md) | Easy |
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [code](./array/pascalsTriangle/PascalsTriangle.java)/[note](array/pascalsTriangle/PascalsTriangle.md) | Easy |
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [code](./array/pascalsTriangle2/PascalsTriangle2.java)/[note](array/pascalsTriangle2/PascalsTriangle2.md) | Easy |
 |134|[Gas Station](https://leetcode.com/problems/gas-station/) | [code](./array/gasStation/GasStation.java)/[note](array/gasStation/GasStation.md) | Medium |
