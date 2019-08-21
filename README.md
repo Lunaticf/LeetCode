@@ -85,6 +85,7 @@ Java solutions of Leetcode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [code](./tree/binaryTreeInorderTraversal/BinaryTreeInorderTraversal.java)/[note](tree/binaryTreeInorderTraversal/BinaryTreeInorderTraversal.md) | Medium |
+|101|[Same Tree](https://leetcode.com/problems/same-tree/) | [code](./tree/sameTree/SameTree.java)/[note](tree/sameTree/SameTree.md) | Easy |
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [code](./tree/symmetricTree/SymmetricTree.java)/[note](tree/symmetricTree/SymmetricTree.md) | Easy |
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [code](./tree/binaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.java)/[note](tree/binaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.md) | Medium |
 |112|[Path Sum](https://leetcode.com/problems/path-sum/) | [code](./tree/pathSum/PathSum.java)/[note](tree/pathSum/PathSum.md) | Easy |
