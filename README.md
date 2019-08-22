@@ -13,6 +13,7 @@ Java solutions of Leetcode
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [code](./array/searchInsertPosition/SearchInsertPosition.java)/[note](array/searchInsertPosition/SearchInsertPosition.md) | Easy |
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [code](./array/spiralMatrix/SpiralMatrix.java)/[note](array/spiralMatrix/SpiralMatrix.md) | Medium |
 |66|[Plus One](https://leetcode.com/problems/plus-one/) | [code](./array/plusOne/PlusOne.java)/[note](array/plusOne/PlusOne.md) | Easy |
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [code](./array/mergeSortedArray/MergeSortedArray.java)/[note](array/mergeSortedArray/MergeSortedArray.md) | Easy |
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [code](./array/pascalsTriangle/PascalsTriangle.java)/[note](array/pascalsTriangle/PascalsTriangle.md) | Easy |
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [code](./array/pascalsTriangle2/PascalsTriangle2.java)/[note](array/pascalsTriangle2/PascalsTriangle2.md) | Easy |
 |134|[Gas Station](https://leetcode.com/problems/gas-station/) | [code](./array/gasStation/GasStation.java)/[note](array/gasStation/GasStation.md) | Medium |
@@ -84,8 +85,10 @@ Java solutions of Leetcode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [code](./tree/binaryTreeInorderTraversal/BinaryTreeInorderTraversal.java)/[note](tree/binaryTreeInorderTraversal/BinaryTreeInorderTraversal.md) | Medium |
+|100|[Same Tree](https://leetcode.com/problems/same-tree/) | [code](./tree/sameTree/SameTree.java)/[note](tree/sameTree/SameTree.md) | Easy |
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [code](./tree/symmetricTree/SymmetricTree.java)/[note](tree/symmetricTree/SymmetricTree.md) | Easy |
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [code](./tree/binaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.java)/[note](tree/binaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.md) | Medium |
+|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [code](./tree/minimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.java)/[note](tree/minimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.md) | Easy |
 |112|[Path Sum](https://leetcode.com/problems/path-sum/) | [code](./tree/pathSum/PathSum.java)/[note](tree/pathSum/PathSum.md) | Easy |
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [code](./tree/flattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.java)/[note](tree/flattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.md) | Medium |
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [code](./tree/binaryTreePreorderTraversal/BinaryTreePreorderTraversal.java)/[note](tree/binaryTreePreorderTraversal/BinaryTreePreorderTraversal.md) | Medium |
