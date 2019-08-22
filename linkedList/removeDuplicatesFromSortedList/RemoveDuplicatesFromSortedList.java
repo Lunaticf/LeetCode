@@ -23,4 +23,23 @@ public class RemoveDuplicatesFromSortedList {
 
         return head;
     }
+
+    // simplify
+    public ListNode deleteDuplicates1(ListNode head) {
+        // corner case
+        if (head == null || head.next == null) return head;
+
+        ListNode p = head;
+
+        while (p.next != null) {
+            // 如果与后一个值相同
+            if (p.val == p.next.val) {
+                p.next = p.next.next;
+            } else {
+                p = p.next;
+            }
+        }
+
+        return head;
+    }
 }
