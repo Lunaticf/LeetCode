@@ -85,9 +85,10 @@ Java solutions of Leetcode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [code](./tree/binaryTreeInorderTraversal/BinaryTreeInorderTraversal.java)/[note](tree/binaryTreeInorderTraversal/BinaryTreeInorderTraversal.md) | Medium |
-|101|[Same Tree](https://leetcode.com/problems/same-tree/) | [code](./tree/sameTree/SameTree.java)/[note](tree/sameTree/SameTree.md) | Easy |
+|100|[Same Tree](https://leetcode.com/problems/same-tree/) | [code](./tree/sameTree/SameTree.java)/[note](tree/sameTree/SameTree.md) | Easy |
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [code](./tree/symmetricTree/SymmetricTree.java)/[note](tree/symmetricTree/SymmetricTree.md) | Easy |
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [code](./tree/binaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.java)/[note](tree/binaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.md) | Medium |
+|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [code](./tree/minimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.java)/[note](tree/minimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.md) | Easy |
 |112|[Path Sum](https://leetcode.com/problems/path-sum/) | [code](./tree/pathSum/PathSum.java)/[note](tree/pathSum/PathSum.md) | Easy |
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [code](./tree/flattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.java)/[note](tree/flattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.md) | Medium |
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [code](./tree/binaryTreePreorderTraversal/BinaryTreePreorderTraversal.java)/[note](tree/binaryTreePreorderTraversal/BinaryTreePreorderTraversal.md) | Medium |
