@@ -16,6 +16,7 @@ Java solutions of Leetcode
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [code](./array/mergeSortedArray/MergeSortedArray.java)/[note](array/mergeSortedArray/MergeSortedArray.md) | Easy |
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [code](./array/pascalsTriangle/PascalsTriangle.java)/[note](array/pascalsTriangle/PascalsTriangle.md) | Easy |
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [code](./array/pascalsTriangle2/PascalsTriangle2.java)/[note](array/pascalsTriangle2/PascalsTriangle2.md) | Easy |
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [code](./array/bestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.java)/[note](array/bestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.md) | Easy |
 |134|[Gas Station](https://leetcode.com/problems/gas-station/) | [code](./array/gasStation/GasStation.java)/[note](array/gasStation/GasStation.md) | Medium |
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [code](./array/twoSum2/TwoSum2.java)/[note](array/twoSum2/TwoSum2.md) | Easy |
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/) | [code](./array/rotateArray/RotateArray.java)/[note](array/rotateArray/RotateArray.md) | Easy |
