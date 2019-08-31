@@ -136,6 +136,7 @@ Java solutions of Leetcode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [code](./linkedList/removeDuplicatesFromSortedList/RemoveDuplicatesFromSortedList.java)/[note](./linkedList/removeDuplicatesFromSortedList/RemoveDuplicatesFromSortedList.md) | Easy |
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [code](./linkedList/linkedListCycle/LinkedListCycle.java)/[note](./linkedList/linkedListCycle/LinkedListCycle.md) | Easy |
 
 
 ## Backtracking
