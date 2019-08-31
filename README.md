@@ -20,6 +20,7 @@ Java solutions of Leetcode
 |122|[Best Time to Buy and Sell Stock 2](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [code](./array/bestTimeToBuyAndSellStock2/BestTimeToBuyAndSellStock2.java)/[note](array/bestTimeToBuyAndSellStock2/BestTimeToBuyAndSellStock2.md) | Easy |
 |134|[Gas Station](https://leetcode.com/problems/gas-station/) | [code](./array/gasStation/GasStation.java)/[note](array/gasStation/GasStation.md) | Medium |
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [code](./array/twoSum2/TwoSum2.java)/[note](array/twoSum2/TwoSum2.md) | Easy |
+|169|[Majority Element](https://leetcode.com/problems/majority-element/) | [code](./array/majorityElement/MajorityElement.java)/[note](array/majorityElement/MajorityElement.md) | Easy |
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/) | [code](./array/rotateArray/RotateArray.java)/[note](array/rotateArray/RotateArray.md) | Easy |
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [code](./array/minimumSizeSubarraySum/MinimumSizeSubarraySum.java)/[note](array/minimumSizeSubarraySum/MinimumSizeSubarraySum.md) | Easy |
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [code](./array/bullsAndCows/BullsAndCows.java)/[note](array/bullsAndCows/BullsAndCows.md) | Medium |
