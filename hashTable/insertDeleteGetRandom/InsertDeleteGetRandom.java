@@ -1,4 +1,4 @@
-package LeetCode.hashTable.insertDeleteGetRandom;
+package leetCode.hashTable.insertDeleteGetRandom;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package LeetCode.math.poorPigs;
+package leetCode.math.poorPigs;
 
 public class PoorPigs {
     public int poorPigs(int buckets, int minutesToDie, int minutesToTest) {

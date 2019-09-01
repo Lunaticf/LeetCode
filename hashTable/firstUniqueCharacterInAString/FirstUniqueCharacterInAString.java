@@ -1,7 +1,4 @@
-package LeetCode.hashTable.firstUniqueCharacterInAString;
-
-import java.util.HashMap;
-import java.util.Map;
+package leetCode.hashTable.firstUniqueCharacterInAString;
 
 public class FirstUniqueCharacterInAString {
     public static void main(String[] args) {

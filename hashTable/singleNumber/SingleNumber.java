@@ -1,4 +1,4 @@
-package LeetCode.hashTable.singleNumber;
+package leetCode.hashTable.singleNumber;
 
 import java.util.Arrays;
 import java.util.HashMap;

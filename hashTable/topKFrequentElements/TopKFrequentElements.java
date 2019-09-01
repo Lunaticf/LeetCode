@@ -1,6 +1,5 @@
-package LeetCode.hashTable.topKFrequentElements;
+package leetCode.hashTable.topKFrequentElements;
 
-import java.lang.reflect.InvocationTargetException;
 import java.util.*;
 
 public class TopKFrequentElements {

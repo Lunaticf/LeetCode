@@ -1,4 +1,4 @@
-package LeetCode.string.addBinary;
+package leetCode.string.addBinary;
 
 public class AddBinary {
 

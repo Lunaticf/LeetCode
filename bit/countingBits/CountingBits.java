@@ -1,4 +1,4 @@
-package LeetCode.bit.countingBits;
+package leetCode.bit.countingBits;
 
 public class CountingBits {
     // 最优做法

@@ -1,4 +1,4 @@
-package LeetCode.recursion.kthSymbolInGrammar;
+package leetCode.recursion.kthSymbolInGrammar;
 
 public class KthSymbolInGrammar {
     public int kthGrammar(int N, int K) {

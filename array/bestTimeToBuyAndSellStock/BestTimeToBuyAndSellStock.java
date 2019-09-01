@@ -1,4 +1,4 @@
-package LeetCode.array.bestTimeToBuyAndSellStock;
+package leetCode.array.bestTimeToBuyAndSellStock;
 
 public class BestTimeToBuyAndSellStock {
     // O(N^2)

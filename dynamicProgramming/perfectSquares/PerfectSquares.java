@@ -1,4 +1,4 @@
-package LeetCode.dynamicProgramming.perfectSquares;
+package leetCode.dynamicProgramming.perfectSquares;
 
 public class PerfectSquares {
     public static void main(String[] args) {

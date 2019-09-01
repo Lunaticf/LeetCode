@@ -1,4 +1,4 @@
-package LeetCode.hashTable.fourSum2;
+package leetCode.hashTable.fourSum2;
 
 
 import java.util.HashMap;

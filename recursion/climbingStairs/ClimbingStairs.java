@@ -1,4 +1,4 @@
-package LeetCode.recursion.climbingStairs;
+package leetCode.recursion.climbingStairs;
 
 public class ClimbingStairs {
     // TLE

@@ -1,4 +1,4 @@
-package LeetCode.array.arrayPartition1;
+package leetCode.array.arrayPartition1;
 
 import java.util.Arrays;
 

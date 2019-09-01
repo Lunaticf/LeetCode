@@ -1,4 +1,4 @@
-package LeetCode.array.moveZeroes;
+package leetCode.array.moveZeroes;
 
 public class MoveZeroes {
     public static void main(String[] args) {

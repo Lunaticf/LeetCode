@@ -1,6 +1,5 @@
-package LeetCode.string.longestUncommonSubsequence1;
+package leetCode.string.longestUncommonSubsequence1;
 
-import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Iterator;
 

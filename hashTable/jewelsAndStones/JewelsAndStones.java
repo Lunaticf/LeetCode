@@ -1,8 +1,6 @@
-package LeetCode.hashTable.jewelsAndStones;
+package leetCode.hashTable.jewelsAndStones;
 
-import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Set;
 
 public class JewelsAndStones {
     public int numJewelsInStones(String J, String S) {

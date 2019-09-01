@@ -1,4 +1,4 @@
-package LeetCode.string.romanToInteger;
+package leetCode.string.romanToInteger;
 
 public class RomanToInteger {
     public int romanToInt(String s) {

@@ -1,4 +1,4 @@
-package LeetCode.array.bullsAndCows;
+package leetCode.array.bullsAndCows;
 
 public class BullsAndCows {
     public static void main(String[] args) {

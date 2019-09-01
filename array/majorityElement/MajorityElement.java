@@ -1,4 +1,4 @@
-package LeetCode.array.majorityElement;
+package leetCode.array.majorityElement;
 
 import java.util.Arrays;
 
@@ -10,6 +10,9 @@ public class MajorityElement {
     }
 
     public int majorityElement(int[] nums) {
+          if (nums == null) {
+              return 0;
+          }
           int count = 0;
           Integer candidate = null;
           for (int num : nums) {

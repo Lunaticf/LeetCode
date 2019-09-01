@@ -1,4 +1,4 @@
-package LeetCode.dynamicProgramming.maximumSubarray;
+package leetCode.dynamicProgramming.maximumSubarray;
 
 public class MaximumSubarray {
     // brute force

@@ -1,4 +1,4 @@
-package LeetCode.dynamicProgramming.houseRobber2;
+package leetCode.dynamicProgramming.houseRobber2;
 
 public class HouseRobber2 {
     private int robberHouses(int[] nums, int left, int right) {

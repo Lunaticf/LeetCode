@@ -1,6 +1,6 @@
-package LeetCode.tree.binaryTreeLevelOrderTraversal;
+package leetCode.tree.binaryTreeLevelOrderTraversal;
 
-import LeetCode.tree.TreeNode;
+import leetCode.tree.TreeNode;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

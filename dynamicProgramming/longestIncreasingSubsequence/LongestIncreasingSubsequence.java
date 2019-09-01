@@ -1,4 +1,4 @@
-package LeetCode.dynamicProgramming.longestIncreasingSubsequence;
+package leetCode.dynamicProgramming.longestIncreasingSubsequence;
 
 import java.util.Arrays;
 

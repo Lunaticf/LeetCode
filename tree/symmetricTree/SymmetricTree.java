@@ -1,6 +1,6 @@
-package LeetCode.tree.symmetricTree;
+package leetCode.tree.symmetricTree;
 
-import LeetCode.tree.TreeNode;
+import leetCode.tree.TreeNode;
 
 import java.util.LinkedList;
 

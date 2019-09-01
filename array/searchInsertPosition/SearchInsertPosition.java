@@ -1,4 +1,4 @@
-package LeetCode.array.searchInsertPosition;
+package leetCode.array.searchInsertPosition;
 
 public class SearchInsertPosition {
     // brute force

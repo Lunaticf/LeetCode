@@ -1,4 +1,4 @@
-package LeetCode.hashTable.groupAnagrams;
+package leetCode.hashTable.groupAnagrams;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package LeetCode.array.minimumSizeSubarraySum;
+package leetCode.array.minimumSizeSubarraySum;
 
 public class MinimumSizeSubarraySum {
     public static void main(String[] args) {

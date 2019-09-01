@@ -1,4 +1,4 @@
-package LeetCode.hashTable.isomorphicStrings;
+package leetCode.hashTable.isomorphicStrings;
 
 import java.util.HashMap;
 

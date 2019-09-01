@@ -1,4 +1,4 @@
-package LeetCode.recursion.powxn;
+package leetCode.recursion.powxn;
 
 public class Powxn {
 

@@ -1,6 +1,6 @@
-package LeetCode.linkedList.linkedListCycle;
+package leetCode.linkedList.linkedListCycle;
 
-import LeetCode.linkedList.ListNode;
+import leetCode.linkedList.ListNode;
 
 import java.util.HashSet;
 

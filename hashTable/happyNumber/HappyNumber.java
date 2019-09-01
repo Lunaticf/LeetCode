@@ -1,4 +1,4 @@
-package LeetCode.hashTable.happyNumber;
+package leetCode.hashTable.happyNumber;
 
 import java.util.HashSet;
 

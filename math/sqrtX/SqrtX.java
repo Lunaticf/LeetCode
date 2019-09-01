@@ -1,4 +1,4 @@
-package LeetCode.math.sqrtX;
+package leetCode.math.sqrtX;
 
 
 public class SqrtX {

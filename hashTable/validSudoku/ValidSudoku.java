@@ -1,4 +1,4 @@
-package LeetCode.hashTable.validSudoku;
+package leetCode.hashTable.validSudoku;
 
 import java.util.Arrays;
 import java.util.HashSet;

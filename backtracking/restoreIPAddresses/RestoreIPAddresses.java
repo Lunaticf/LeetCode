@@ -1,4 +1,4 @@
-package LeetCode.backtracking.restoreIPAddresses;
+package leetCode.backtracking.restoreIPAddresses;
 
 import java.util.ArrayList;
 import java.util.List;

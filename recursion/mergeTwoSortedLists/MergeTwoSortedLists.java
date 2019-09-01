@@ -1,6 +1,4 @@
-package LeetCode.recursion.mergeTwoSortedLists;
-
-import java.io.FileReader;
+package leetCode.recursion.mergeTwoSortedLists;
 
 public class MergeTwoSortedLists {
     class ListNode {

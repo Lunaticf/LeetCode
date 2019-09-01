@@ -1,6 +1,4 @@
-package LeetCode.recursion.fibonacciNumber;
-
-import java.util.HashMap;
+package leetCode.recursion.fibonacciNumber;
 
 public class FibonacciNumber {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package LeetCode.tree.balancedBinaryTree;
+package leetCode.tree.balancedBinaryTree;
 
-import LeetCode.tree.TreeNode;
+import leetCode.tree.TreeNode;
 
 public class BalancedBinaryTree {
     // O(NLogN)

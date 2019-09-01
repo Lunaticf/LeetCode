@@ -1,4 +1,4 @@
-package LeetCode.hashTable.minimumIndexSumOfTwoLists;
+package leetCode.hashTable.minimumIndexSumOfTwoLists;
 
 import java.util.ArrayList;
 import java.util.HashMap;

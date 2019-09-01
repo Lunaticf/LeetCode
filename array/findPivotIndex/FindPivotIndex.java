@@ -1,4 +1,4 @@
-package LeetCode.array.findPivotIndex;
+package leetCode.array.findPivotIndex;
 
 public class FindPivotIndex {
 

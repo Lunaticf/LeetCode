@@ -1,4 +1,4 @@
-package LeetCode.string.lengthOfLastWord;
+package leetCode.string.lengthOfLastWord;
 
 public class LengthOfLastWord {
 

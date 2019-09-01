@@ -1,8 +1,4 @@
-package LeetCode.string.reverseWordsInAString3;
-
-import java.lang.reflect.Array;
-import java.util.Arrays;
-import java.util.Collections;
+package leetCode.string.reverseWordsInAString3;
 
 public class ReverseWordsInAString3 {
     private String reverseWord(String s) {

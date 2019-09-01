@@ -1,4 +1,4 @@
-package LeetCode.hashTable.findDuplicateSubtrees;
+package leetCode.hashTable.findDuplicateSubtrees;
 
 import java.util.ArrayList;
 import java.util.HashMap;

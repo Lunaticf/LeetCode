@@ -1,4 +1,4 @@
-package LeetCode.string.validPalindrome;
+package leetCode.string.validPalindrome;
 
 public class ValidPalindrome {
     public static void main(String[] args) {

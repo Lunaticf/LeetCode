@@ -1,4 +1,4 @@
-package LeetCode.stackAndQueue.simplifyPath;
+package leetCode.stackAndQueue.simplifyPath;
 
 import java.util.*;
 

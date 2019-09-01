@@ -1,4 +1,4 @@
-package LeetCode.array.removeDuplicatesFromSortedArray;
+package leetCode.array.removeDuplicatesFromSortedArray;
 
 public class RemoveDuplicatesFromSortedArray {
 

@@ -1,4 +1,4 @@
-package LeetCode.array.largestNumberAtLeastTwiceofOthers;
+package leetCode.array.largestNumberAtLeastTwiceofOthers;
 
 public class LargestNumberAtLeastTwiceofOthers {
     public static void main(String[] args) {

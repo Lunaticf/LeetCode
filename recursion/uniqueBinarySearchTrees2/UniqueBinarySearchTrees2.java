@@ -1,4 +1,4 @@
-package LeetCode.recursion.uniqueBinarySearchTrees2;
+package leetCode.recursion.uniqueBinarySearchTrees2;
 
 import java.util.ArrayList;
 import java.util.List;

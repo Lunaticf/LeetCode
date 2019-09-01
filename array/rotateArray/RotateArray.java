@@ -1,4 +1,4 @@
-package LeetCode.array.rotateArray;
+package leetCode.array.rotateArray;
 
 import java.util.Arrays;
 

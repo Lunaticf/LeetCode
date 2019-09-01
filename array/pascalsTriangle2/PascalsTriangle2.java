@@ -1,4 +1,4 @@
-package LeetCode.array.pascalsTriangle2;
+package leetCode.array.pascalsTriangle2;
 
 import java.util.ArrayList;
 import java.util.List;

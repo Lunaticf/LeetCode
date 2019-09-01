@@ -1,6 +1,6 @@
-package LeetCode.tree.minimumDepthOfBinaryTree;
+package leetCode.tree.minimumDepthOfBinaryTree;
 
-import LeetCode.tree.TreeNode;
+import leetCode.tree.TreeNode;
 
 public class MinimumDepthOfBinaryTree {
     public int minDepth(TreeNode root) {

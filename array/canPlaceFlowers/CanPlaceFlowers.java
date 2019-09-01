@@ -1,4 +1,4 @@
-package LeetCode.array.canPlaceFlowers;
+package leetCode.array.canPlaceFlowers;
 
 public class CanPlaceFlowers {
     public static void main(String[] args) {

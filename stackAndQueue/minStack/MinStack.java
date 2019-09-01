@@ -1,4 +1,4 @@
-package LeetCode.stackAndQueue.minStack;
+package leetCode.stackAndQueue.minStack;
 
 import java.util.Stack;
 

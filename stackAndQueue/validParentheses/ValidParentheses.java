@@ -1,4 +1,4 @@
-package LeetCode.stackAndQueue.validParentheses;
+package leetCode.stackAndQueue.validParentheses;
 
 import java.util.HashMap;
 import java.util.Stack;

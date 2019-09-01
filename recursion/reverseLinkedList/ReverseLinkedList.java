@@ -1,6 +1,4 @@
-package LeetCode.recursion.reverseLinkedList;
-
-import java.util.List;
+package leetCode.recursion.reverseLinkedList;
 
 class ListNode {
     int val;

@@ -1,6 +1,6 @@
-package LeetCode.tree.houseRobber3;
+package leetCode.tree.houseRobber3;
 
-import LeetCode.tree.TreeNode;
+import leetCode.tree.TreeNode;
 
 import java.util.HashMap;
 import java.util.Map;

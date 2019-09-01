@@ -1,4 +1,4 @@
-package LeetCode.hashTable.intersectionOfTwoArrays;
+package leetCode.hashTable.intersectionOfTwoArrays;
 
 import java.util.ArrayList;
 import java.util.HashSet;

@@ -1,4 +1,4 @@
-package LeetCode.array.bestTimeToBuyAndSellStock2;
+package leetCode.array.bestTimeToBuyAndSellStock2;
 
 public class BestTimeToBuyAndSellStock2 {
     // 找到波峰波谷图每一次的上升段

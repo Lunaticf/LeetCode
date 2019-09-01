@@ -1,4 +1,4 @@
-package LeetCode.math.palindromeNumber;
+package leetCode.math.palindromeNumber;
 
 public class PalindromeNumber {
     public boolean isPalindrome(int x) {

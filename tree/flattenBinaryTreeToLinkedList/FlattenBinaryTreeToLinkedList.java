@@ -1,6 +1,6 @@
-package LeetCode.tree.flattenBinaryTreeToLinkedList;
+package leetCode.tree.flattenBinaryTreeToLinkedList;
 
-import LeetCode.tree.TreeNode;
+import leetCode.tree.TreeNode;
 
 public class FlattenBinaryTreeToLinkedList {
     public void flatten(TreeNode root) {

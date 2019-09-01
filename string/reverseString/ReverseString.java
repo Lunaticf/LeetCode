@@ -1,4 +1,4 @@
-package LeetCode.string.reverseString;
+package leetCode.string.reverseString;
 
 public class ReverseString {
     public void reverseString(char[] s) {

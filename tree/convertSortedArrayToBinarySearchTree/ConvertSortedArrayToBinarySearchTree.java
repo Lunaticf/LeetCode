@@ -1,7 +1,7 @@
-package LeetCode.tree.convertSortedArrayToBinarySearchTree;
+package leetCode.tree.convertSortedArrayToBinarySearchTree;
 
 
-import LeetCode.tree.TreeNode;
+import leetCode.tree.TreeNode;
 
 public class ConvertSortedArrayToBinarySearchTree {
 

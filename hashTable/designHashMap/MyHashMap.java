@@ -1,4 +1,4 @@
-package LeetCode.hashTable.designHashMap;
+package leetCode.hashTable.designHashMap;
 
 import java.util.Arrays;
 

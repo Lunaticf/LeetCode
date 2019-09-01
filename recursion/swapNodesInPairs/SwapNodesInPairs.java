@@ -1,4 +1,4 @@
-package LeetCode.recursion.swapNodesInPairs;
+package leetCode.recursion.swapNodesInPairs;
 
 class ListNode {
      int val;

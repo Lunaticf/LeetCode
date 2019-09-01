@@ -1,4 +1,4 @@
-package LeetCode.array.diagonalTraverse;
+package leetCode.array.diagonalTraverse;
 
 public class DiagonalTraverse {
     public static void main(String[] args) {

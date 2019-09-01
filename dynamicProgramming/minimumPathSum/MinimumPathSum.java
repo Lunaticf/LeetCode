@@ -1,4 +1,4 @@
-package LeetCode.dynamicProgramming.minimumPathSum;
+package leetCode.dynamicProgramming.minimumPathSum;
 
 public class MinimumPathSum {
     private int res = Integer.MAX_VALUE;

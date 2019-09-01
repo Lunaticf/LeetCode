@@ -1,4 +1,4 @@
-package LeetCode.array.plusOne;
+package leetCode.array.plusOne;
 
 public class PlusOne {
 

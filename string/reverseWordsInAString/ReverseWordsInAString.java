@@ -1,4 +1,4 @@
-package LeetCode.string.reverseWordsInAString;
+package leetCode.string.reverseWordsInAString;
 
 
 import java.util.Arrays;

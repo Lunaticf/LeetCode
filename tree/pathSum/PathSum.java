@@ -1,6 +1,6 @@
-package LeetCode.tree.pathSum;
+package leetCode.tree.pathSum;
 
-import LeetCode.tree.TreeNode;
+import leetCode.tree.TreeNode;
 
 public class PathSum {
 
