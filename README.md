@@ -146,3 +146,8 @@ Java solutions of Leetcode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [code](./backtracking/restoreIPAddresses/RestoreIPAddresses.java)/[note](./backtracking/restoreIPAddresses/RestoreIPAddresses.md) | Medium |
+
+## Sql
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [code](./sql/CombineTwoTabels.sql)| Easy |
