@@ -153,3 +153,4 @@ Java solutions of Leetcode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [code](./sql/CombineTwoTabels.sql)| Easy |
+|176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [code](./sql/SecondHighestSalary.sql)| Easy |
