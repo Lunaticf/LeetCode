@@ -114,6 +114,7 @@ Java solutions of Leetcode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/) | [code](./bit/countingBits/CountingBits.java)/[note](./bit/countingBits/CountingBits.md) | Medium |
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [code](./bit/numberOf1Bits/NumberOf1Bits.java)/[note](./bit/numberOf1Bits/NumberOf1Bits.md) | Easy |
 
 ## Dynamic Programming
 | # | Title | Solution | Difficulty |
