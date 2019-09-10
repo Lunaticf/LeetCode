@@ -16,7 +16,25 @@ public class ReverseBits {
         while (s.length() < 32) {
             s.insert(0, 0);
         }
-        return (int)Long.parseLong(s.reverse().toString(),2);
+//        return Integer.parseInt(s.reverse().toString(), 2); error
+        return Integer.parseUnsignedInt(s.reverse().toString(), 2);
+//        return (int)Long.parseLong(s.reverse().toString(),2); 也可
+    }
+
+    /**
+     * 移位操作 正解
+     */
+    public int reverseBits1(int n) {
+        int res = 0;
+        // while (n != 0) {
+        // 注意这里不能用while 因为假如n前面都是0 如0000101，res只移位了几次，后面的0没补上。
+        for (int i = 0; i < 32; i++) {
+            // 保存最后一位
+            res <<= 1;
+            res |= (n & 1);
+            n >>>= 1;
+        }
+        return res;
     }
 
 }

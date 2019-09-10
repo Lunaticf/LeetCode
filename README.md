@@ -114,6 +114,7 @@ Java solutions of Leetcode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/) | [code](./bit/countingBits/CountingBits.java)/[note](./bit/countingBits/CountingBits.md) | Medium |
+|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [code](./bit/reverseBits/ReverseBits.java)/[note](./bit/reverseBits/ReverseBits.md) | Easy |
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [code](./bit/numberOf1Bits/NumberOf1Bits.java)/[note](./bit/numberOf1Bits/NumberOf1Bits.md) | Easy |
 
 ## Dynamic Programming
@@ -121,11 +122,11 @@ Java solutions of Leetcode
 |---| ----- | -------- | ---------- |
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [code](./dynamicProgramming/maximumSubarray/MaximumSubarray.java)/[note](./dynamicProgramming/maximumSubarray/MaximumSubarray.md) | Easy |
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [code](./dynamicProgramming/minimumPathSum/MinimumPathSum.java)/[note](./dynamicProgramming/minimumPathSum/MinimumPathSum.md) | Medium |
+|139|[Word Break](https://leetcode.com/problems/word-break/) | [code](./dynamicProgramming/wordBreak/WordBreak.java)/[note](./dynamicProgramming/wordBreak/WordBreak.md) | Medium |
 |198|[House Robber](https://leetcode.com/problems/house-robber/) | [code](./dynamicProgramming/houseRobber/HouseRobber.java)/[note](./dynamicProgramming/houseRobber/HouseRobber.md) | Easy |
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/) | [code](./dynamicProgramming/houseRobber2/HouseRobber2.java)/[note](./dynamicProgramming/houseRobber2/HouseRobber2.md) | Medium |
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [code](./dynamicProgramming/perfectSquares/PerfectSquares.java)/[note](./dynamicProgramming/perfectSquares/PerfectSquares.md) | Medium |
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [code](./dynamicProgramming/longestIncreasingSubsequence/LongestIncreasingSubsequence.java)/[note](./dynamicProgramming/longestIncreasingSubsequence/LongestIncreasingSubsequence.md) | Medium |
-|139|[Word Break](https://leetcode.com/problems/word-break/) | [code](./dynamicProgramming/wordBreak/WordBreak.java)/[note](./dynamicProgramming/wordBreak/WordBreak.md) | Medium |
 
 
 
