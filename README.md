@@ -107,6 +107,7 @@ Java solutions of Leetcode
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [code](./math/palindromeNumber/PalindromeNumber.java)/[note](./math/palindromeNumber/PalindromeNumber.md) | Easy |
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [code](./math/excelSheetColumnNumber/ExcelSheetColumnNumber.java)/[note](./math/excelSheetColumnNumber/ExcelSheetColumnNumber.md) | Easy |
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [code](./math/factorialTrailingZeroes/FactorialTrailingZeroes.java)/[note](./math/factorialTrailingZeroes/FactorialTrailingZeroes.md) | Easy |
+|204|[Count Primes](https://leetcode.com/problems/count-primes/) | [code](./math/countPrimes/CountPrimes.java)/[note](./math/countPrimes/CountPrimes.md) | Easy |
 |458|[Poor Pigs](https://leetcode.com/problems/poor-pigs/) | [code](./math/poorPigs/PoorPigs.java)/[note](./math/poorPigs/PoorPigs.md) | Hard |
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/) | [code](./math/divisorGame/DivisorGame.java)/[note](./math/divisorGame/DivisorGame.md) | Easy |
 
