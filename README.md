@@ -151,6 +151,7 @@ Java solutions of Leetcode
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [code](./linkedList/intersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.java)/[note](./linkedList/intersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.md) | Easy |
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [code](./linkedList/removeLinkedListElements/RemoveLinkedListElements.java)/[note](./linkedList/removeLinkedListElements/RemoveLinkedListElements.md) | Easy |
 |234|[Palindrome Linked List](https://leetcode.com/problems//palindrome-linked-list/) | [code](./linkedList/palindromeLinkedList/PalindromeLinkedList.java)/[note](./linkedList/palindromeLinkedList/PalindromeLinkedList.md) | Easy |
+|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [code](./linkedList/deleteNodeInALinkedList/DeleteNodeInALinkedList.java)/[note](./linkedList/deleteNodeInALinkedList/DeleteNodeInALinkedList.md) | Easy |
 
 
 ## Backtracking
