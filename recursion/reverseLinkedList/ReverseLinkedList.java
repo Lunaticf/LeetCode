@@ -7,7 +7,7 @@ class ListNode {
 }
 
 public class ReverseLinkedList {
-    // iterative
+    // iterative 需要记住前一个节点
     public ListNode reverseList(ListNode head) {
         ListNode prev = null;
         ListNode current = head;
@@ -30,7 +30,7 @@ public class ReverseLinkedList {
         }
         // 那么这个函数返回的也是新链表的头
         ListNode p = reverseList(head.next);
-        // head依然指向新链表的尾部节点
+        // 此时head依然指向新链表的尾部节点，把head添加到新链表的尾部
         head.next.next = head;
         head.next = null;
         return p;
