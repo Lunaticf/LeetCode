@@ -139,6 +139,7 @@ Java solutions of Leetcode
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [code](./stackAndQueue/validParentheses/ValidParentheses.java)/[note](./stackAndQueue/validParentheses/ValidParentheses.md) | Easy |
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/) | [code](./stackAndQueue/simplifyPath/SimplifyPath.java)/[note](./stackAndQueue/simplifyPath/SimplifyPath.md) | Medium |
 |155|[Min Stack](https://leetcode.com/problems/min-stack/) | [code](./stackAndQueue/minStack/MinStack.java)/[note](./stackAndQueue/minStack/MinStack.md) | Easy |
+|225|[Implement Stack using Queues](https://leetcode.com/problems//implement-stack-using-queues/) | [code](./stackAndQueue/implementStackUsingQueues/ImplementStackUsingQueues.java)/[note](./stackAndQueue/implementStackUsingQueues/ImplementStackUsingQueues.md) | Easy |
 
 
 ## LinkedList
