@@ -158,6 +158,7 @@ Java solutions of Leetcode
 ## Backtracking
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [code](./backtracking/letterCombinationsOfAPhoneNumber/LetterCombinationsOfAPhoneNumber.java)/[note](./backtracking/letterCombinationsOfAPhoneNumber/LetterCombinationsOfAPhoneNumber.md) | Medium |
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [code](./backtracking/restoreIPAddresses/RestoreIPAddresses.java)/[note](./backtracking/restoreIPAddresses/RestoreIPAddresses.md) | Medium |
 
 ## Sql
