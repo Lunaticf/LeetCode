@@ -62,6 +62,7 @@ Java solutions of Leetcode
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [code](./hashTable/isomorphicStrings/IsomorphicStrings.java)/[note](hashTable/isomorphicStrings/IsomorphicStrings.md) | Easy |
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [code](./hashTable/containsDuplicate/ContainsDuplicate.java)/[note](hashTable/containsDuplicate/ContainsDuplicate.md) | Easy |
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [code](./hashTable/containsDuplicate2/ContainsDuplicate2.java)/[note](hashTable/containsDuplicate2/ContainsDuplicate2.md) | Easy |
+|290|[Word Pattern](https://leetcode.com/problems/word-pattern/) | [code](./hashTable/wordPattern/WordPattern.java)/[note](hashTable/wordPattern/WordPattern.md) | Easy |
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [code](./hashTable/topKFrequentElements/TopKFrequentElements.java)/[note](hashTable/topKFrequentElements/TopKFrequentElements.md) | Medium |
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [code](./hashTable/intersectionOfTwoArrays/IntersectionOfTwoArrays.java)/[note](hashTable/intersectionOfTwoArrays/IntersectionOfTwoArrays.md) | Easy |
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [code](./hashTable/intersectionOfTwoArrays2/IntersectionOfTwoArrays2.java)/[note](hashTable/intersectionOfTwoArrays2/IntersectionOfTwoArrays2.md) | Easy |
