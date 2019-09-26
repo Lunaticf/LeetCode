@@ -114,6 +114,7 @@ Java solutions of Leetcode
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [code](./math/factorialTrailingZeroes/FactorialTrailingZeroes.java)/[note](./math/factorialTrailingZeroes/FactorialTrailingZeroes.md) | Easy |
 |204|[Count Primes](https://leetcode.com/problems/count-primes/) | [code](./math/countPrimes/CountPrimes.java)/[note](./math/countPrimes/CountPrimes.md) | Easy |
 |258|[Add Digits](https://leetcode.com/problems/add-digits/) | [code](./math/addDigits/AddDigits.java)/[note](./math/addDigits/AddDigits.md) | Easy |
+|263|[Ugly Number](https://leetcode.com/problems/ugly-number/) | [code](./math/uglyNumber/UglyNumber.java)/[note](./math/uglyNumber/UglyNumber.md) | Easy |
 |278|[Count Primes](https://leetcode.com/problems/count-primes/) | [code](./math/countPrimes/CountPrimes.java)/[note](./math/countPrimes/CountPrimes.md) | Easy |
 |292|[Nim Game](https://leetcode.com/problems/nim-game/) | [code](./math/nimGame/NimGame.java)/[note](./math/nimGame/NimGame.md) | Easy |
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [code](./math/validPerfectSquare/ValidPerfectSquare.java)/[note](./math/validPerfectSquare/ValidPerfectSquare.md) | Easy |
