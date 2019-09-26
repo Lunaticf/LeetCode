@@ -118,7 +118,8 @@ Java solutions of Leetcode
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/) | [code](./math/uglyNumber/UglyNumber.java)/[note](./math/uglyNumber/UglyNumber.md) | Easy |
 |278|[Count Primes](https://leetcode.com/problems/count-primes/) | [code](./math/countPrimes/CountPrimes.java)/[note](./math/countPrimes/CountPrimes.md) | Easy |
 |292|[Nim Game](https://leetcode.com/problems/nim-game/) | [code](./math/nimGame/NimGame.java)/[note](./math/nimGame/NimGame.md) | Easy |
-|367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [code](./math/validPerfectSquare/ValidPerfectSquare.java)/[note](./math/validPerfectSquare/ValidPerfectSquare.md) | Easy |
+|292|[Nim Game](https://leetcode.com/problems/nim-game/) | [code](./math/nimGame/NimGame.java)/[note](./math/nimGame/NimGame.md) | Easy |
+|326|[Power of Three](https://leetcode.com/problems/power-of-three/) | [code](./math/powerOfThree/PowerOfThree.java)/[note](./math/powerOfThree/PowerOfThree.md) | Easy |
 |458|[Poor Pigs](https://leetcode.com/problems/poor-pigs/) | [code](./math/poorPigs/PoorPigs.java)/[note](./math/poorPigs/PoorPigs.md) | Hard |
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/) | [code](./math/divisorGame/DivisorGame.java)/[note](./math/divisorGame/DivisorGame.md) | Easy |
 
