@@ -129,6 +129,7 @@ Java solutions of Leetcode
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [code](./bit/reverseBits/ReverseBits.java)/[note](./bit/reverseBits/ReverseBits.md) | Easy |
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [code](./bit/numberOf1Bits/NumberOf1Bits.java)/[note](./bit/numberOf1Bits/NumberOf1Bits.md) | Easy |
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/) | [code](./bit/powerOfTwo/PowerOfTwo.java)/[note](./bit/powerOfTwo/PowerOfTwo.md) | Easy |
+|268|[Missing Number](https://leetcode.com/problems/missing-number/) | [code](./bit/missingNumber/MissingNumber.java)/[note](./bit/missingNumber/MissingNumber.md) | Easy |
 
 ## Dynamic Programming
 | # | Title | Solution | Difficulty |
