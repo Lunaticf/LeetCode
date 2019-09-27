@@ -26,6 +26,7 @@ Java solutions of Leetcode
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/) | [code](./array/firstBadVersion/FirstBadVersion.java)/[note](array/firstBadVersion/FirstBadVersion.md) | Easy |
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [code](./array/moveZeroes/MoveZeroes.java)/[note](array/moveZeroes/MoveZeroes.md) | Easy |
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [code](./array/bullsAndCows/BullsAndCows.java)/[note](array/bullsAndCows/BullsAndCows.md) | Medium |
+|303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [code](./array/rangeSumQuery/RangeSumQuery.java)/[note](array/rangeSumQuery/RangeSumQuery.md) | Easy |
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [code](./array/maxConsecutiveOnes/MaxConsecutiveOnes.java)/[note](array/maxConsecutiveOnes/MaxConsecutiveOnes.md) | Easy |
 |498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | [code](./array/diagonalTraverse/DiagonalTraverse.java)/[note](array/diagonalTraverse/DiagonalTraverse.md) | Medium |
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/) | [code](./array/arrayPartition1/ArrayPartition1.java)/[note](array/arrayPartition1/ArrayPartition1.md) | Easy |
