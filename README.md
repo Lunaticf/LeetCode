@@ -180,3 +180,9 @@ Java solutions of Leetcode
 |---| ----- | -------- | ---------- |
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [code](./sql/CombineTwoTabels.sql)| Easy |
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [code](./sql/SecondHighestSalary.sql)| Easy |
+
+
+## graph
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|1202|[Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) | [code](./graph/smallestStringWithSwaps/SmallestStringWithSwaps.java)/[note](./graph/smallestStringWithSwaps/SmallestStringWithSwaps.md)| Medium |
