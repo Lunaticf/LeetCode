@@ -109,6 +109,7 @@ Java solutions of Leetcode
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [code](./tree/binaryTreePaths/BinaryTreePaths.java)/[note](tree/binaryTreePaths/BinaryTreePaths.md) | Medium |
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [code](./tree/invertBinaryTree/InvertBinaryTree.java)/[note](tree/invertBinaryTree/InvertBinaryTree.md) | Easy |
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/) | [code](./tree/houseRobber3/HouseRobber3.java)/[note](tree/houseRobber3/HouseRobber3.md) | Medium |
+|404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [code](./tree/sumOfLeftLeaves/SumOfLeftLeaves.java)/[note](tree/sumOfLeftLeaves/SumOfLeftLeaves.md) | Easy |
 
 ## Math
 | # | Title | Solution | Difficulty |
