@@ -48,6 +48,7 @@ Java solutions of Leetcode
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [code](./string/validAnagram/ValidAnagram.java)/[note](string/validAnagram/ValidAnagram.md) | Easy |
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [code](./string/reverseString/ReverseString.java)/[note](string/reverseString/ReverseString.md) | Easy |
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [code](./string/reverseVowelsOfAString/ReverseVowelsOfAString.java)/[note](string/reverseVowelsOfAString/ReverseVowelsOfAString.md) | Easy |
+|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [code](./string/isSubsequence/IsSubsequence.java)/[note](string/isSubsequence/IsSubsequence.md) | Easy |
 |521|[Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | [code](./string/longestUncommonSubsequence1/LongestUncommonSubsequence1.java)/[note](string/longestUncommonSubsequence1/LongestUncommonSubsequence1.md) | Easy |
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [code](./string/reverseWordsInAString3/ReverseWordsInAString3.java)/[note](string/reverseWordsInAString3/ReverseWordsInAString3.md) | Medium |
 
