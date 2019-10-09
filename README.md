@@ -53,6 +53,7 @@ Java solutions of Leetcode
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/) | [code](./string/ransomNote/RansomNote.java)/[note](string/ransomNote/RansomNote.md) | Easy |
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [code](./string/fizzBuzz/FizzBuzz.java)/[note](string/fizzBuzz/FizzBuzz.md) | Easy |
 |415|[Add Strings](https://leetcode.com/problems/add-strings/) | [code](./string/addStrings/AddStrings.java)/[note](string/addStrings/AddStrings.md) | Easy |
+|434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | [code](./string/numberOfSegmentsInAString/NumberOfSegmentsInAString.java)/[note](string/numberOfSegmentsInAString/NumberOfSegmentsInAString.md) | Easy |
 |521|[Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | [code](./string/longestUncommonSubsequence1/LongestUncommonSubsequence1.java)/[note](string/longestUncommonSubsequence1/LongestUncommonSubsequence1.md) | Easy |
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [code](./string/reverseWordsInAString3/ReverseWordsInAString3.java)/[note](string/reverseWordsInAString3/ReverseWordsInAString3.md) | Medium |
 
