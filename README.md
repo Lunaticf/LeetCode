@@ -115,6 +115,7 @@ Java solutions of Leetcode
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [code](./tree/invertBinaryTree/InvertBinaryTree.java)/[note](tree/invertBinaryTree/InvertBinaryTree.md) | Easy |
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/) | [code](./tree/houseRobber3/HouseRobber3.java)/[note](tree/houseRobber3/HouseRobber3.md) | Medium |
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [code](./tree/sumOfLeftLeaves/SumOfLeftLeaves.java)/[note](tree/sumOfLeftLeaves/SumOfLeftLeaves.md) | Easy |
+|429|[n-ary-tree-level-order-traversal/](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | [code](./tree/nTreeLevelOrderTraversal/NTreeLevelOrderTraversal.java)/[note](tree/nTreeLevelOrderTraversal/NTreeLevelOrderTraversal.md) | Easy |
 
 ## Math
 | # | Title | Solution | Difficulty |
