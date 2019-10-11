@@ -138,6 +138,7 @@ Java solutions of Leetcode
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/) | [code](./math/powerOfThree/PowerOfThree.java)/[note](./math/powerOfThree/PowerOfThree.md) | Easy |
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/) | [code](./math/powerOfFour/PowerOfFour.java)/[note](./math/powerOfFour/PowerOfFour.md) | Easy |
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [code](./math/arrangeCoins/ArrangeCoins.java)/[note](./math/arrangeCoins/ArrangeCoins.md) | Easy |
+|453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [code](./math/minimumMovesToEqualArray/MinimumMovesToEqualArray.java)/[note](./math/minimumMovesToEqualArray/MinimumMovesToEqualArray.md) | Easy |
 |458|[Poor Pigs](https://leetcode.com/problems/poor-pigs/) | [code](./math/poorPigs/PoorPigs.java)/[note](./math/poorPigs/PoorPigs.md) | Hard |
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/) | [code](./math/divisorGame/DivisorGame.java)/[note](./math/divisorGame/DivisorGame.md) | Easy |
 
