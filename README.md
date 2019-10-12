@@ -152,6 +152,7 @@ Java solutions of Leetcode
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [code](./bit/sumOfTwoIntegers/SumOfTwoIntegers.java)/[note](./bit/sumOfTwoIntegers/SumOfTwoIntegers.md) | Medium |
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/) | [code](./bit/binaryWatch/BinaryWatch.java)/[note](./bit/binaryWatch/BinaryWatch.md) | Easy |
 |405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [code](./bit/convertANumberToHexadecimal/ConvertANumberToHexadecimal.java)/[note](./bit/convertANumberToHexadecimal/ConvertANumberToHexadecimal.md) | Easy |
+|476|[Number Complement](https://leetcode.com/problems/number-complement/) | [code](./bit/numberComplement/NumberComplement.java)/[note](./bit/numberComplement/NumberComplement.md) | Easy |
 
 
 ## Dynamic Programming
