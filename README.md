@@ -154,6 +154,7 @@ Java solutions of Leetcode
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [code](./bit/sumOfTwoIntegers/SumOfTwoIntegers.java)/[note](./bit/sumOfTwoIntegers/SumOfTwoIntegers.md) | Medium |
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/) | [code](./bit/binaryWatch/BinaryWatch.java)/[note](./bit/binaryWatch/BinaryWatch.md) | Easy |
 |405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [code](./bit/convertANumberToHexadecimal/ConvertANumberToHexadecimal.java)/[note](./bit/convertANumberToHexadecimal/ConvertANumberToHexadecimal.md) | Easy |
+|461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [code](./bit/hammingDistance/HammingDistance.java)/[note](./bit/hammingDistance/HammingDistance.md) | Easy |
 
 
 ## Dynamic Programming
