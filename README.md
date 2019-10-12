@@ -30,6 +30,7 @@ Java solutions of Leetcode
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [code](./array/guessNumberHigherOrLower/GuessNumberHigherOrLower.java)/[note](array/guessNumberHigherOrLower/GuessNumberHigherOrLower.md) | Easy |
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [code](./array/thirdMaximumNumber/ThirdMaximumNumber.java)/[note](array/thirdMaximumNumber/ThirdMaximumNumber.md) | Easy |
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [code](./array/findAllDisappear/FindAllDisappear.java)/[note](array/findAllDisappear/FindAllDisappear.md) | Easy |
+|475|[Heaters](https://leetcode.com/problems/heaters/) | [code](./array/heaters/Heaters.java)/[note](array/heaters/Heaters.md) | Easy |
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [code](./array/maxConsecutiveOnes/MaxConsecutiveOnes.java)/[note](array/maxConsecutiveOnes/MaxConsecutiveOnes.md) | Easy |
 |498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | [code](./array/diagonalTraverse/DiagonalTraverse.java)/[note](array/diagonalTraverse/DiagonalTraverse.md) | Medium |
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/) | [code](./array/arrayPartition1/ArrayPartition1.java)/[note](array/arrayPartition1/ArrayPartition1.md) | Easy |
