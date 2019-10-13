@@ -32,6 +32,7 @@ Java solutions of Leetcode
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [code](./array/findAllDisappear/FindAllDisappear.java)/[note](array/findAllDisappear/FindAllDisappear.md) | Easy |
 |475|[Heaters](https://leetcode.com/problems/heaters/) | [code](./array/heaters/Heaters.java)/[note](array/heaters/Heaters.md) | Easy |
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [code](./array/maxConsecutiveOnes/MaxConsecutiveOnes.java)/[note](array/maxConsecutiveOnes/MaxConsecutiveOnes.md) | Easy |
+|496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [code](./array/nextGreatElement1/NextGreatElement1.java)/[note](array/nextGreatElement1/NextGreatElement1.md) | Easy |
 |498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | [code](./array/diagonalTraverse/DiagonalTraverse.java)/[note](array/diagonalTraverse/DiagonalTraverse.md) | Medium |
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/) | [code](./array/arrayPartition1/ArrayPartition1.java)/[note](array/arrayPartition1/ArrayPartition1.md) | Easy |
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [code](./array/canPlaceFlowers/CanPlaceFlowers.java)/[note](array/canPlaceFlowers/CanPlaceFlowers.md) | Easy |
