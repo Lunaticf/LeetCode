@@ -144,6 +144,7 @@ Java solutions of Leetcode
 |453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [code](./math/minimumMovesToEqualArray/MinimumMovesToEqualArray.java)/[note](./math/minimumMovesToEqualArray/MinimumMovesToEqualArray.md) | Easy |
 |458|[Poor Pigs](https://leetcode.com/problems/poor-pigs/) | [code](./math/poorPigs/PoorPigs.java)/[note](./math/poorPigs/PoorPigs.md) | Hard |
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [code](./math/islandPerimeter/IslandPerimeter.java)/[note](./math/islandPerimeter/IslandPerimeter.md) | Easy |
+|492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/) | [code](./math/constructTheRectangle/ConstructTheRectangle.java)/[note](./math/constructTheRectangle/ConstructTheRectangle.md) | Easy |
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/) | [code](./math/divisorGame/DivisorGame.java)/[note](./math/divisorGame/DivisorGame.md) | Easy |
 
 ## Bit
