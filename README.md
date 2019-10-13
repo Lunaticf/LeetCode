@@ -85,6 +85,7 @@ Java solutions of Leetcode
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [code](./hashTable/longestPalindrome/LongestPalindrome.java)/[note](hashTable/longestPalindrome/LongestPalindrome.md) | Easy |
 |447|[Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) | [code](./hashTable/numberOfBoomerangs/NumberOfBoomerangs.java)/[note](hashTable/numberOfBoomerangs/NumberOfBoomerangs.md) | Easy |
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/) | [code](./hashTable/fourSum2/FourSum2.java)/[note](hashTable/fourSum2/FourSum2.md) | Medium |
+|500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [code](./hashTable/keyboardRow/KeyboardRow.java)/[note](hashTable/keyboardRow/KeyboardRow.md) | Easy |
 |599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [code](./hashTable/minimumIndexSumOfTwoLists/MinimumIndexSumOfTwoLists.java)/[note](hashTable/minimumIndexSumOfTwoLists/MinimumIndexSumOfTwoLists.md) | Easy |
 |652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | [code](./hashTable/findDuplicateSubtrees/FindDuplicateSubtrees.java)/[note](hashTable/findDuplicateSubtrees/FindDuplicateSubtrees.md) | Medium |
 |705|[Design HashSet](https://leetcode.com/problems/design-hashset/) | [code](./hashTable/designHashSet/MyHashSet.java)/[note](hashTable/designHashSet/MyHashSet.md) | Easy |

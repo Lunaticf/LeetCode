@@ -1,9 +1,6 @@
 package leetCode.array.nextGreatElement1;
 
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Stack;
+import java.util.*;
 
 public class NextGreatElement1 {
     public static void main(String[] args) {
