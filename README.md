@@ -123,6 +123,7 @@ Java solutions of Leetcode
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [code](./tree/sumOfLeftLeaves/SumOfLeftLeaves.java)/[note](tree/sumOfLeftLeaves/SumOfLeftLeaves.md) | Easy |
 |429|[n-ary-tree-level-order-traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | [code](./tree/nTreeLevelOrderTraversal/NTreeLevelOrderTraversal.java)/[note](tree/nTreeLevelOrderTraversal/NTreeLevelOrderTraversal.md) | Easy |
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [code](./tree/pathSum3/PathSum3.java)/[note](tree/pathSum3/PathSum3.md) | Easy |
+|501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [code](./tree/findModeInBST/FindModeInBST.java)/[note](tree/findModeInBST/FindModeInBST.md) | Easy |
 
 ## Math
 | # | Title | Solution | Difficulty |
