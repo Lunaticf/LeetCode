@@ -61,6 +61,7 @@ Java solutions of Leetcode
 |443|[String Compression](https://leetcode.com/problems/string-compression/) | [code](./string/stringCompression/StringCompression.java)/[note](string/stringCompression/StringCompression.md) | Easy |
 |482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [code](./string/licenseKeyFormatting/LicenseKeyFormatting.java)/[note](string/licenseKeyFormatting/LicenseKeyFormatting.md) | Easy |
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [code](./string/repeatedSubStringPattern/RepeatedSubStringPattern.java)/[note](string/repeatedSubStringPattern/RepeatedSubStringPattern.md) | Easy |
+|520|[Detect Capital](https://leetcode.com/problems/detect-capital/) | [code](./string/detectCapital/DetectCapital.java)/[note](string/detectCapital/DetectCapital.md) | Easy |
 |521|[Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | [code](./string/longestUncommonSubsequence1/LongestUncommonSubsequence1.java)/[note](string/longestUncommonSubsequence1/LongestUncommonSubsequence1.md) | Easy |
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [code](./string/reverseWordsInAString3/ReverseWordsInAString3.java)/[note](string/reverseWordsInAString3/ReverseWordsInAString3.md) | Medium |
 
