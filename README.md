@@ -32,6 +32,7 @@ Java solutions of Leetcode
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [code](./array/findAllDisappear/FindAllDisappear.java)/[note](array/findAllDisappear/FindAllDisappear.md) | Easy |
 |475|[Heaters](https://leetcode.com/problems/heaters/) | [code](./array/heaters/Heaters.java)/[note](array/heaters/Heaters.md) | Easy |
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [code](./array/maxConsecutiveOnes/MaxConsecutiveOnes.java)/[note](array/maxConsecutiveOnes/MaxConsecutiveOnes.md) | Easy |
+|496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [code](./array/nextGreatElement1/NextGreatElement1.java)/[note](array/nextGreatElement1/NextGreatElement1.md) | Easy |
 |498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | [code](./array/diagonalTraverse/DiagonalTraverse.java)/[note](array/diagonalTraverse/DiagonalTraverse.md) | Medium |
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/) | [code](./array/arrayPartition1/ArrayPartition1.java)/[note](array/arrayPartition1/ArrayPartition1.md) | Easy |
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [code](./array/canPlaceFlowers/CanPlaceFlowers.java)/[note](array/canPlaceFlowers/CanPlaceFlowers.md) | Easy |
@@ -57,6 +58,7 @@ Java solutions of Leetcode
 |415|[Add Strings](https://leetcode.com/problems/add-strings/) | [code](./string/addStrings/AddStrings.java)/[note](string/addStrings/AddStrings.md) | Easy |
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | [code](./string/numberOfSegmentsInAString/NumberOfSegmentsInAString.java)/[note](string/numberOfSegmentsInAString/NumberOfSegmentsInAString.md) | Easy |
 |443|[String Compression](https://leetcode.com/problems/string-compression/) | [code](./string/stringCompression/StringCompression.java)/[note](string/stringCompression/StringCompression.md) | Easy |
+|482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [code](./string/licenseKeyFormatting/LicenseKeyFormatting.java)/[note](string/licenseKeyFormatting/LicenseKeyFormatting.md) | Easy |
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [code](./string/repeatedSubStringPattern/RepeatedSubStringPattern.java)/[note](string/repeatedSubStringPattern/RepeatedSubStringPattern.md) | Easy |
 |521|[Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | [code](./string/longestUncommonSubsequence1/LongestUncommonSubsequence1.java)/[note](string/longestUncommonSubsequence1/LongestUncommonSubsequence1.md) | Easy |
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [code](./string/reverseWordsInAString3/ReverseWordsInAString3.java)/[note](string/reverseWordsInAString3/ReverseWordsInAString3.md) | Medium |
@@ -83,6 +85,7 @@ Java solutions of Leetcode
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [code](./hashTable/longestPalindrome/LongestPalindrome.java)/[note](hashTable/longestPalindrome/LongestPalindrome.md) | Easy |
 |447|[Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) | [code](./hashTable/numberOfBoomerangs/NumberOfBoomerangs.java)/[note](hashTable/numberOfBoomerangs/NumberOfBoomerangs.md) | Easy |
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/) | [code](./hashTable/fourSum2/FourSum2.java)/[note](hashTable/fourSum2/FourSum2.md) | Medium |
+|500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [code](./hashTable/keyboardRow/KeyboardRow.java)/[note](hashTable/keyboardRow/KeyboardRow.md) | Easy |
 |599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [code](./hashTable/minimumIndexSumOfTwoLists/MinimumIndexSumOfTwoLists.java)/[note](hashTable/minimumIndexSumOfTwoLists/MinimumIndexSumOfTwoLists.md) | Easy |
 |652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | [code](./hashTable/findDuplicateSubtrees/FindDuplicateSubtrees.java)/[note](hashTable/findDuplicateSubtrees/FindDuplicateSubtrees.md) | Medium |
 |705|[Design HashSet](https://leetcode.com/problems/design-hashset/) | [code](./hashTable/designHashSet/MyHashSet.java)/[note](hashTable/designHashSet/MyHashSet.md) | Easy |
@@ -144,6 +147,7 @@ Java solutions of Leetcode
 |453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [code](./math/minimumMovesToEqualArray/MinimumMovesToEqualArray.java)/[note](./math/minimumMovesToEqualArray/MinimumMovesToEqualArray.md) | Easy |
 |458|[Poor Pigs](https://leetcode.com/problems/poor-pigs/) | [code](./math/poorPigs/PoorPigs.java)/[note](./math/poorPigs/PoorPigs.md) | Hard |
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [code](./math/islandPerimeter/IslandPerimeter.java)/[note](./math/islandPerimeter/IslandPerimeter.md) | Easy |
+|492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/) | [code](./math/constructTheRectangle/ConstructTheRectangle.java)/[note](./math/constructTheRectangle/ConstructTheRectangle.md) | Easy |
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/) | [code](./math/divisorGame/DivisorGame.java)/[note](./math/divisorGame/DivisorGame.md) | Easy |
 
 ## Bit
@@ -157,6 +161,7 @@ Java solutions of Leetcode
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [code](./bit/sumOfTwoIntegers/SumOfTwoIntegers.java)/[note](./bit/sumOfTwoIntegers/SumOfTwoIntegers.md) | Medium |
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/) | [code](./bit/binaryWatch/BinaryWatch.java)/[note](./bit/binaryWatch/BinaryWatch.md) | Easy |
 |405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [code](./bit/convertANumberToHexadecimal/ConvertANumberToHexadecimal.java)/[note](./bit/convertANumberToHexadecimal/ConvertANumberToHexadecimal.md) | Easy |
+|476|[Number Complement](https://leetcode.com/problems/number-complement/) | [code](./bit/numberComplement/NumberComplement.java)/[note](./bit/numberComplement/NumberComplement.md) | Easy |
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [code](./bit/hammingDistance/HammingDistance.java)/[note](./bit/hammingDistance/HammingDistance.md) | Easy |
 
 
