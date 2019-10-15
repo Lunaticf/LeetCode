@@ -128,6 +128,7 @@ Java solutions of Leetcode
 |429|[n-ary-tree-level-order-traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | [code](./tree/nTreeLevelOrderTraversal/NTreeLevelOrderTraversal.java)/[note](tree/nTreeLevelOrderTraversal/NTreeLevelOrderTraversal.md) | Easy |
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [code](./tree/pathSum3/PathSum3.java)/[note](tree/pathSum3/PathSum3.md) | Easy |
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [code](./tree/findModeInBST/FindModeInBST.java)/[note](tree/findModeInBST/FindModeInBST.md) | Easy |
+|532|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [code](./tree/minimumAbsoluteDiffInBST/MinimumAbsoluteDiffInBST.java)/[note](tree/minimumAbsoluteDiffInBST/MinimumAbsoluteDiffInBST.md) | Easy |
 
 ## Math
 | # | Title | Solution | Difficulty |
