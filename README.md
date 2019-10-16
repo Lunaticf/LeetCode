@@ -138,6 +138,7 @@ Java solutions of Leetcode
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [code](./tree/diameterOfBinaryTree/DiameterOfBinaryTree.java)/[note](tree/diameterOfBinaryTree/DiameterOfBinaryTree.md) | Easy |
 |559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | [code](./tree/depthOfNTree/DepthOfNTree.java)/[note](tree/depthOfNTree/DepthOfNTree.md) | Easy |
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [code](./tree/binaryTreeTilt/BinaryTreeTilt.java)/[note](tree/binaryTreeTilt/BinaryTreeTilt.md) | Easy |
+|572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [code](./tree/subTreeOfAnotherTree/SubTreeOfAnotherTree.java)/[note](tree/subTreeOfAnotherTree/SubTreeOfAnotherTree.md) | Easy |
 
 ## Math
 | # | Title | Solution | Difficulty |
