@@ -135,6 +135,7 @@ Java solutions of Leetcode
 |532|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [code](./tree/minimumAbsoluteDiffInBST/MinimumAbsoluteDiffInBST.java)/[note](tree/minimumAbsoluteDiffInBST/MinimumAbsoluteDiffInBST.md) | Easy |
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [code](./tree/convertBstToGreaterTree/ConvertBstToGreaterTree.java)/[note](tree/convertBstToGreaterTree/ConvertBstToGreaterTree.md) | Easy |
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [code](./tree/diameterOfBinaryTree/DiameterOfBinaryTree.java)/[note](tree/diameterOfBinaryTree/DiameterOfBinaryTree.md) | Easy |
+|559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | [code](./tree/depthOfNTree/DepthOfNTree.java)/[note](tree/depthOfNTree/DepthOfNTree.md) | Easy |
 
 ## Math
 | # | Title | Solution | Difficulty |
