@@ -37,12 +37,10 @@ Java solutions of Leetcode
 |506|[Relative Ranks](https://leetcode.com/problems/relative-ranks/) | [code](./array/relativeRanks/RelativeRanks.java)/[note](array/relativeRanks/RelativeRanks.md) | Easy |
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [code](./array/kDiffPairs/KDiffPairs.java)/[note](array/kDiffPairs/KDiffPairs.md) | Easy |
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/) | [code](./array/arrayPartition1/ArrayPartition1.java)/[note](array/arrayPartition1/ArrayPartition1.md) | Easy |
-<<<<<<< HEAD
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortestUnsortedContinuousSubarray/) | [code](./array/shortestUnsortedContinuousSubarray/ShortestUnsortedContinuousSubarray.java)/[note](array/shortestUnsortedContinuousSubarray/ShortestUnsortedContinuousSubarray.md) | Easy |
-=======
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [code](./array/reshapeTheMatrix/ReshapeTheMatrix.java)/[note](array/reshapeTheMatrix/ReshapeTheMatrix.md) | Easy |
->>>>>>> 95c8a0b27650cc3ee135b3fd8c6d86f53d1578f5
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [code](./array/canPlaceFlowers/CanPlaceFlowers.java)/[note](array/canPlaceFlowers/CanPlaceFlowers.md) | Easy |
+|628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [code](./array/maximumProductOfThreeNumbers/MaximumProductOfThreeNumbers.java)/[note](array/maximumProductOfThreeNumbers/MaximumProductOfThreeNumbers.md) | Easy |
 |724|[Find pivot index](https://leetcode.com/problems/find-pivot-index/) | [code](./array/findPivotIndex/FindPivotIndex.java)/[note](array/findPivotIndex/FindPivotIndex.md) | Easy |
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [code](./array/largestNumberAtLeastTwiceofOthers/LargestNumberAtLeastTwiceofOthers.java)/[note](array/largestNumberAtLeastTwiceofOthers/LargestNumberAtLeastTwiceofOthers.md) | Easy |
 
