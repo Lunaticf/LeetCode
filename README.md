@@ -144,6 +144,7 @@ Java solutions of Leetcode
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [code](./tree/binaryTreeTilt/BinaryTreeTilt.java)/[note](tree/binaryTreeTilt/BinaryTreeTilt.md) | Easy |
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [code](./tree/subTreeOfAnotherTree/SubTreeOfAnotherTree.java)/[note](tree/subTreeOfAnotherTree/SubTreeOfAnotherTree.md) | Easy |
 |606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [code](./tree/constructStringFromBinaryTree/ConstructStringFromBinaryTree.java)/[note](tree/constructStringFromBinaryTree/ConstructStringFromBinaryTree.md) | Easy |
+|617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [code](./tree/mergeTwoBinaryTrees/MergeTwoBinaryTrees.java)/[note](tree/mergeTwoBinaryTrees/MergeTwoBinaryTrees.md) | Easy |
 
 ## Math
 | # | Title | Solution | Difficulty |
