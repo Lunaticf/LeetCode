@@ -143,6 +143,7 @@ Java solutions of Leetcode
 |559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | [code](./tree/depthOfNTree/DepthOfNTree.java)/[note](tree/depthOfNTree/DepthOfNTree.md) | Easy |
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [code](./tree/binaryTreeTilt/BinaryTreeTilt.java)/[note](tree/binaryTreeTilt/BinaryTreeTilt.md) | Easy |
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [code](./tree/subTreeOfAnotherTree/SubTreeOfAnotherTree.java)/[note](tree/subTreeOfAnotherTree/SubTreeOfAnotherTree.md) | Easy |
+|606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [code](./tree/constructStringFromBinaryTree/ConstructStringFromBinaryTree.java)/[note](tree/constructStringFromBinaryTree/ConstructStringFromBinaryTree.md) | Easy |
 
 ## Math
 | # | Title | Solution | Difficulty |
