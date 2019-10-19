@@ -35,8 +35,13 @@ Java solutions of Leetcode
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [code](./array/nextGreatElement1/NextGreatElement1.java)/[note](array/nextGreatElement1/NextGreatElement1.md) | Easy |
 |498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | [code](./array/diagonalTraverse/DiagonalTraverse.java)/[note](array/diagonalTraverse/DiagonalTraverse.md) | Medium |
 |506|[Relative Ranks](https://leetcode.com/problems/relative-ranks/) | [code](./array/relativeRanks/RelativeRanks.java)/[note](array/relativeRanks/RelativeRanks.md) | Easy |
+|532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [code](./array/kDiffPairs/KDiffPairs.java)/[note](array/kDiffPairs/KDiffPairs.md) | Easy |
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/) | [code](./array/arrayPartition1/ArrayPartition1.java)/[note](array/arrayPartition1/ArrayPartition1.md) | Easy |
+<<<<<<< HEAD
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortestUnsortedContinuousSubarray/) | [code](./array/shortestUnsortedContinuousSubarray/ShortestUnsortedContinuousSubarray.java)/[note](array/shortestUnsortedContinuousSubarray/ShortestUnsortedContinuousSubarray.md) | Easy |
+=======
+|566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [code](./array/reshapeTheMatrix/ReshapeTheMatrix.java)/[note](array/reshapeTheMatrix/ReshapeTheMatrix.md) | Easy |
+>>>>>>> 95c8a0b27650cc3ee135b3fd8c6d86f53d1578f5
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [code](./array/canPlaceFlowers/CanPlaceFlowers.java)/[note](array/canPlaceFlowers/CanPlaceFlowers.md) | Easy |
 |724|[Find pivot index](https://leetcode.com/problems/find-pivot-index/) | [code](./array/findPivotIndex/FindPivotIndex.java)/[note](array/findPivotIndex/FindPivotIndex.md) | Easy |
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [code](./array/largestNumberAtLeastTwiceofOthers/LargestNumberAtLeastTwiceofOthers.java)/[note](array/largestNumberAtLeastTwiceofOthers/LargestNumberAtLeastTwiceofOthers.md) | Easy |
@@ -64,6 +69,8 @@ Java solutions of Leetcode
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [code](./string/repeatedSubStringPattern/RepeatedSubStringPattern.java)/[note](string/repeatedSubStringPattern/RepeatedSubStringPattern.md) | Easy |
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital/) | [code](./string/detectCapital/DetectCapital.java)/[note](string/detectCapital/DetectCapital.md) | Easy |
 |521|[Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | [code](./string/longestUncommonSubsequence1/LongestUncommonSubsequence1.java)/[note](string/longestUncommonSubsequence1/LongestUncommonSubsequence1.md) | Easy |
+|541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | [code](./string/reverseString2/ReverseString2.java)/[note](string/reverseString2/ReverseString2.md) | Easy |
+|551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [code](./string/studentAttendanceRecord1/StudentAttendanceRecord1.java)/[note](string/studentAttendanceRecord1/StudentAttendanceRecord1.md) | Easy |
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [code](./string/reverseWordsInAString3/ReverseWordsInAString3.java)/[note](string/reverseWordsInAString3/ReverseWordsInAString3.md) | Medium |
 
 ## hashTable
@@ -90,6 +97,7 @@ Java solutions of Leetcode
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/) | [code](./hashTable/fourSum2/FourSum2.java)/[note](hashTable/fourSum2/FourSum2.md) | Medium |
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [code](./hashTable/keyboardRow/KeyboardRow.java)/[note](hashTable/keyboardRow/KeyboardRow.md) | Easy |
 |594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [code](./hashTable/longestHarmoniousSubsequence/LongestHarmoniousSubsequence.java)/[note](hashTable/longestHarmoniousSubsequence/LongestHarmoniousSubsequence.md) | Easy |
+|575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [code](./hashTable/distributeCandies/DistributeCandies.java)/[note](hashTable/distributeCandies/DistributeCandies.md) | Easy |
 |599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [code](./hashTable/minimumIndexSumOfTwoLists/MinimumIndexSumOfTwoLists.java)/[note](hashTable/minimumIndexSumOfTwoLists/MinimumIndexSumOfTwoLists.md) | Easy |
 |652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | [code](./hashTable/findDuplicateSubtrees/FindDuplicateSubtrees.java)/[note](hashTable/findDuplicateSubtrees/FindDuplicateSubtrees.md) | Medium |
 |705|[Design HashSet](https://leetcode.com/problems/design-hashset/) | [code](./hashTable/designHashSet/MyHashSet.java)/[note](hashTable/designHashSet/MyHashSet.md) | Easy |
@@ -131,6 +139,12 @@ Java solutions of Leetcode
 |429|[n-ary-tree-level-order-traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | [code](./tree/nTreeLevelOrderTraversal/NTreeLevelOrderTraversal.java)/[note](tree/nTreeLevelOrderTraversal/NTreeLevelOrderTraversal.md) | Easy |
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [code](./tree/pathSum3/PathSum3.java)/[note](tree/pathSum3/PathSum3.md) | Easy |
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [code](./tree/findModeInBST/FindModeInBST.java)/[note](tree/findModeInBST/FindModeInBST.md) | Easy |
+|532|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [code](./tree/minimumAbsoluteDiffInBST/MinimumAbsoluteDiffInBST.java)/[note](tree/minimumAbsoluteDiffInBST/MinimumAbsoluteDiffInBST.md) | Easy |
+|538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [code](./tree/convertBstToGreaterTree/ConvertBstToGreaterTree.java)/[note](tree/convertBstToGreaterTree/ConvertBstToGreaterTree.md) | Easy |
+|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [code](./tree/diameterOfBinaryTree/DiameterOfBinaryTree.java)/[note](tree/diameterOfBinaryTree/DiameterOfBinaryTree.md) | Easy |
+|559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | [code](./tree/depthOfNTree/DepthOfNTree.java)/[note](tree/depthOfNTree/DepthOfNTree.md) | Easy |
+|563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [code](./tree/binaryTreeTilt/BinaryTreeTilt.java)/[note](tree/binaryTreeTilt/BinaryTreeTilt.md) | Easy |
+|572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [code](./tree/subTreeOfAnotherTree/SubTreeOfAnotherTree.java)/[note](tree/subTreeOfAnotherTree/SubTreeOfAnotherTree.md) | Easy |
 
 ## Math
 | # | Title | Solution | Difficulty |
