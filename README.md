@@ -149,6 +149,7 @@ Java solutions of Leetcode
 |606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [code](./tree/constructStringFromBinaryTree/ConstructStringFromBinaryTree.java)/[note](tree/constructStringFromBinaryTree/ConstructStringFromBinaryTree.md) | Easy |
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [code](./tree/mergeTwoBinaryTrees/MergeTwoBinaryTrees.java)/[note](tree/mergeTwoBinaryTrees/MergeTwoBinaryTrees.md) | Easy |
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [code](./tree/averageOfLevelsInBinaryTree/AverageOfLevelsInBinaryTree.java)/[note](tree/averageOfLevelsInBinaryTree/AverageOfLevelsInBinaryTree.md) | Easy |
+|653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [code](./tree/twoSumBST/TwoSumBST.java)/[note](tree/twoSumBST/TwoSumBST.md) | Easy |
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [code](./tree/trimBST/TrimBST.java)/[note](tree/trimBST/TrimBST.md) | Easy |
 
 ## Math
