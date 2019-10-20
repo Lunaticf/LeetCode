@@ -98,6 +98,7 @@ Java solutions of Leetcode
 |594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [code](./hashTable/longestHarmoniousSubsequence/LongestHarmoniousSubsequence.java)/[note](hashTable/longestHarmoniousSubsequence/LongestHarmoniousSubsequence.md) | Easy |
 |575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [code](./hashTable/distributeCandies/DistributeCandies.java)/[note](hashTable/distributeCandies/DistributeCandies.md) | Easy |
 |599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [code](./hashTable/minimumIndexSumOfTwoLists/MinimumIndexSumOfTwoLists.java)/[note](hashTable/minimumIndexSumOfTwoLists/MinimumIndexSumOfTwoLists.md) | Easy |
+|645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [code](./hashTable/setMismatch/SetMismatch.java)/[note](hashTable/setMismatch/SetMismatch.md) | Easy |
 |652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | [code](./hashTable/findDuplicateSubtrees/FindDuplicateSubtrees.java)/[note](hashTable/findDuplicateSubtrees/FindDuplicateSubtrees.md) | Medium |
 |705|[Design HashSet](https://leetcode.com/problems/design-hashset/) | [code](./hashTable/designHashSet/MyHashSet.java)/[note](hashTable/designHashSet/MyHashSet.md) | Easy |
 |706|[Design HashMap](https://leetcode.com/problems/design-hashmap/) | [code](./hashTable/designHashMap/MyHashMap.java)/[note](hashTable/designHashMap/MyHashMap.md) | Easy |
