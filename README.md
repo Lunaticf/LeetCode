@@ -41,6 +41,7 @@ Java solutions of Leetcode
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [code](./array/reshapeTheMatrix/ReshapeTheMatrix.java)/[note](array/reshapeTheMatrix/ReshapeTheMatrix.md) | Easy |
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [code](./array/canPlaceFlowers/CanPlaceFlowers.java)/[note](array/canPlaceFlowers/CanPlaceFlowers.md) | Easy |
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [code](./array/maximumProductOfThreeNumbers/MaximumProductOfThreeNumbers.java)/[note](array/maximumProductOfThreeNumbers/MaximumProductOfThreeNumbers.md) | Easy |
+|643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [code](./array/maximumAverageSubarrayI/MaximumAverageSubarrayI.java)/[note](array/maximumAverageSubarrayI/MaximumAverageSubarrayI.md) | Easy |
 |724|[Find pivot index](https://leetcode.com/problems/find-pivot-index/) | [code](./array/findPivotIndex/FindPivotIndex.java)/[note](array/findPivotIndex/FindPivotIndex.md) | Easy |
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [code](./array/largestNumberAtLeastTwiceofOthers/LargestNumberAtLeastTwiceofOthers.java)/[note](array/largestNumberAtLeastTwiceofOthers/LargestNumberAtLeastTwiceofOthers.md) | Easy |
 
