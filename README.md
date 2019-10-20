@@ -145,6 +145,7 @@ Java solutions of Leetcode
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [code](./tree/subTreeOfAnotherTree/SubTreeOfAnotherTree.java)/[note](tree/subTreeOfAnotherTree/SubTreeOfAnotherTree.md) | Easy |
 |606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [code](./tree/constructStringFromBinaryTree/ConstructStringFromBinaryTree.java)/[note](tree/constructStringFromBinaryTree/ConstructStringFromBinaryTree.md) | Easy |
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [code](./tree/mergeTwoBinaryTrees/MergeTwoBinaryTrees.java)/[note](tree/mergeTwoBinaryTrees/MergeTwoBinaryTrees.md) | Easy |
+|637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [code](./tree/averageOfLevelsInBinaryTree/AverageOfLevelsInBinaryTree.java)/[note](tree/averageOfLevelsInBinaryTree/AverageOfLevelsInBinaryTree.md) | Easy |
 
 ## Math
 | # | Title | Solution | Difficulty |
