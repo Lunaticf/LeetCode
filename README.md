@@ -217,6 +217,7 @@ Java solutions of Leetcode
 |155|[Min Stack](https://leetcode.com/problems/min-stack/) | [code](./stackAndQueue/minStack/MinStack.java)/[note](./stackAndQueue/minStack/MinStack.md) | Easy |
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [code](./stackAndQueue/implementStackUsingQueues/ImplementStackUsingQueues.java)/[note](./stackAndQueue/implementStackUsingQueues/ImplementStackUsingQueues.md) | Easy |
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [code](./stackAndQueue/implementQueueUsingStacks/ImplementQueueUsingStacks.java)/[note](./stackAndQueue/implementQueueUsingStacks/ImplementQueueUsingStacks.md) | Easy |
+|682|[Baseball Game](https://leetcode.com/problems/baseball-game/) | [code](./stackAndQueue/baseBallGame/BaseBallGame.java)/[note](./stackAndQueue/baseBallGame/BaseBallGame.md) | Easy |
 
 
 ## LinkedList
