@@ -152,6 +152,7 @@ Java solutions of Leetcode
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [code](./tree/averageOfLevelsInBinaryTree/AverageOfLevelsInBinaryTree.java)/[note](tree/averageOfLevelsInBinaryTree/AverageOfLevelsInBinaryTree.md) | Easy |
 |653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [code](./tree/twoSumBST/TwoSumBST.java)/[note](tree/twoSumBST/TwoSumBST.md) | Easy |
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [code](./tree/trimBST/TrimBST.java)/[note](tree/trimBST/TrimBST.md) | Easy |
+|671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) | [code](./tree/secondMinimumNode/SecondMinimumNode.java)/[note](tree/secondMinimumNode/SecondMinimumNode.md) | Easy |
 
 ## Math
 | # | Title | Solution | Difficulty |

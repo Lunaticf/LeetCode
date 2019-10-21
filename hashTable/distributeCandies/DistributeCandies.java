@@ -67,5 +67,6 @@ public class DistributeCandies {
         int temp = nums[x];
         nums[x] = nums[y];
         nums[y] = temp;
+
     }
 }
