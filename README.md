@@ -197,6 +197,7 @@ Java solutions of Leetcode
 |405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [code](./bit/convertANumberToHexadecimal/ConvertANumberToHexadecimal.java)/[note](./bit/convertANumberToHexadecimal/ConvertANumberToHexadecimal.md) | Easy |
 |476|[Number Complement](https://leetcode.com/problems/number-complement/) | [code](./bit/numberComplement/NumberComplement.java)/[note](./bit/numberComplement/NumberComplement.md) | Easy |
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [code](./bit/hammingDistance/HammingDistance.java)/[note](./bit/hammingDistance/HammingDistance.md) | Easy |
+|693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [code](./bit/alternatingBits/AlternatingBits.java)/[note](./bit/alternatingBits/AlternatingBits.md) | Easy |
 
 
 ## Dynamic Programming

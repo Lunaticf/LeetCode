@@ -7,6 +7,7 @@ package leetCode.string.toLowerCase;
 public class ToLowerCase {
     public String toLowerCase1(String str) {
         return str.toLowerCase();
+
     }
 
     public String toLowerCase(String str) {
