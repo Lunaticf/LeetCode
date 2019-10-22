@@ -46,6 +46,7 @@ Java solutions of Leetcode
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [code](./array/findLCIS/FindLCIS.java)/[note](array/findLCIS/FindLCIS.md) | Easy |
 |697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/) | [code](./array/degreeOfArray/DegreeOfArray.java)/[note](array/degreeOfArray/DegreeOfArray.md) | Easy |
 |704|[Binary Search](https://leetcode.com/problems/BinarySearch/) | [code](./array/binarySearch/BinarySearch.java)/[note](array/binarySearch/BinarySearch.md) | Easy |
+|717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | [code](./array/bitCharacter/BitCharacter.java)/[note](array/bitCharacter/BitCharacter.md) | Easy |
 |724|[Find pivot index](https://leetcode.com/problems/find-pivot-index/) | [code](./array/findPivotIndex/FindPivotIndex.java)/[note](array/findPivotIndex/FindPivotIndex.md) | Easy |
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [code](./array/largestNumberAtLeastTwiceofOthers/LargestNumberAtLeastTwiceofOthers.java)/[note](array/largestNumberAtLeastTwiceofOthers/LargestNumberAtLeastTwiceofOthers.md) | Easy |
 
