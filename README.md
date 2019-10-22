@@ -44,6 +44,7 @@ Java solutions of Leetcode
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [code](./array/maximumAverageSubarrayI/MaximumAverageSubarrayI.java)/[note](array/maximumAverageSubarrayI/MaximumAverageSubarrayI.md) | Easy |
 |661|[Image Smoother](https://leetcode.com/problems/image-smoother/) | [code](./array/imageSmoother/ImageSmoother.java)/[note](array/imageSmoother/ImageSmoother.md) | Easy |
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [code](./array/findLCIS/FindLCIS.java)/[note](array/findLCIS/FindLCIS.md) | Easy |
+|704|[Binary Search](https://leetcode.com/problems/BinarySearch/) | [code](./array/binarySearch/BinarySearch.java)/[note](array/binarySearch/BinarySearch.md) | Easy |
 |724|[Find pivot index](https://leetcode.com/problems/find-pivot-index/) | [code](./array/findPivotIndex/FindPivotIndex.java)/[note](array/findPivotIndex/FindPivotIndex.md) | Easy |
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [code](./array/largestNumberAtLeastTwiceofOthers/LargestNumberAtLeastTwiceofOthers.java)/[note](array/largestNumberAtLeastTwiceofOthers/LargestNumberAtLeastTwiceofOthers.md) | Easy |
 
