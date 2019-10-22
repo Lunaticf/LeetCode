@@ -109,6 +109,7 @@ Java solutions of Leetcode
 |652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | [code](./hashTable/findDuplicateSubtrees/FindDuplicateSubtrees.java)/[note](hashTable/findDuplicateSubtrees/FindDuplicateSubtrees.md) | Medium |
 |705|[Design HashSet](https://leetcode.com/problems/design-hashset/) | [code](./hashTable/designHashSet/MyHashSet.java)/[note](hashTable/designHashSet/MyHashSet.md) | Easy |
 |706|[Design HashMap](https://leetcode.com/problems/design-hashmap/) | [code](./hashTable/designHashMap/MyHashMap.java)/[note](hashTable/designHashMap/MyHashMap.md) | Easy |
+|720|[Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/) | [code](./hashTable/longestWordInDict/LongestWordInDict.java)/[note](hashTable/longestWordInDict/LongestWordInDict.md) | Easy |
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [code](./hashTable/jewelsAndStones/JewelsAndStones.java)/[note](hashTable/jewelsAndStones/JewelsAndStones.md) | Easy |
 
 ## Recursion
