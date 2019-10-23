@@ -214,6 +214,7 @@ Java solutions of Leetcode
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/) | [code](./dynamicProgramming/houseRobber2/HouseRobber2.java)/[note](./dynamicProgramming/houseRobber2/HouseRobber2.md) | Medium |
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [code](./dynamicProgramming/perfectSquares/PerfectSquares.java)/[note](./dynamicProgramming/perfectSquares/PerfectSquares.md) | Medium |
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [code](./dynamicProgramming/longestIncreasingSubsequence/LongestIncreasingSubsequence.java)/[note](./dynamicProgramming/longestIncreasingSubsequence/LongestIncreasingSubsequence.md) | Medium |
+|746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [code](./dynamicProgramming/minCostClimbing/MinCostClimbing.java)/[note](./dynamicProgramming/minCostClimbing/MinCostClimbing.md) | Easy |
 |1027|[Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/) | [code](./dynamicProgramming/longestArithmeticSequence/LongestArithmeticSequence.java)/[note](./dynamicProgramming/longestArithmeticSequence/LongestArithmeticSequence.md) | Medium |
 
 
