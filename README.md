@@ -184,6 +184,7 @@ Java solutions of Leetcode
 |504|[Base 7](https://leetcode.com/problems/base-7/) | [code](./math/base7/Base7.java)/[note](./math/base7/Base7.md) | Easy |
 |507|[Perfect Number](https://leetcode.com/problems/perfect-number/) | [code](./math/perfectNumber/PerfectNumber.java)/[note](./math/perfectNumber/PerfectNumber.md) | Easy |
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | [code](./math/sumOfSquareNumbers/SumOfSquareNumbers.java)/[note](./math/sumOfSquareNumbers/SumOfSquareNumbers.md) | Easy |
+|728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | [code](./math/selfDividingNumbers/SelfDividingNumbers.java)/[note](./math/selfDividingNumbers/SelfDividingNumbers.md) | Easy |
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/) | [code](./math/divisorGame/DivisorGame.java)/[note](./math/divisorGame/DivisorGame.md) | Easy |
 
 ## Bit
