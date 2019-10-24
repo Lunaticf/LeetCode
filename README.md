@@ -79,6 +79,7 @@ Java solutions of Leetcode
 |551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [code](./string/studentAttendanceRecord1/StudentAttendanceRecord1.java)/[note](string/studentAttendanceRecord1/StudentAttendanceRecord1.md) | Easy |
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [code](./string/reverseWordsInAString3/ReverseWordsInAString3.java)/[note](string/reverseWordsInAString3/ReverseWordsInAString3.md) | Medium |
 |657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [code](./string/robotReturn/RobotReturn.java)/[note](string/robotReturn/RobotReturn.md) | Easy |
+|686|[Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [code](./string/repeatedStringMatch/RepeatedStringMatch.java)/[note](string/repeatedStringMatch/RepeatedStringMatch.md) | Easy |
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/) | [code](./string/toLowerCase/ToLowerCase.java)/[note](string/toLowerCase/ToLowerCase.md) | Easy |
 
 ## hashTable
