@@ -266,4 +266,5 @@ Java solutions of Leetcode
 |---| ----- | -------- | ---------- |
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [code](./greedy/assignCookies/AssignCookies.java)/[note](./greedy/assignCookies/AssignCookies.md)| Easy |
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | [code](./greedy/validPalindrome2/ValidPalindrome2.java)/[note](./greedy/validPalindrome2/ValidPalindrome2.md)| Easy |
+|754|[Reach a Number](https://leetcode.com/problems/reach-a-number/) | [code](./greedy/reachANumber/ReachANumber.java)/[note](./greedy/reachANumber/ReachANumber.md)| Easy |
 
