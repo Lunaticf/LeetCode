@@ -1,6 +1,8 @@
 package leetCode;
 
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 /**
@@ -9,9 +11,12 @@ import java.util.Map;
  */
 public class Main {
     public static void main(String[] args) {
-        Map map = new HashMap();
-        for (int i = 0; i < 128; i++) {
-            map.put(i, new byte[1024*1024]);
+        List<Integer> list = new ArrayList<>();
+        list.add(1);
+        list.add(2);
+        for (int i : list) {
+            list.remove(i);
         }
     }
+
 }
