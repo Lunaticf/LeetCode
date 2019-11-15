@@ -9,7 +9,7 @@ import java.util.List;
  * @Date 2019/11/14
  */
 public class CombinationSum {
-    public List<List<Integer>> combinationSum1(int[] candidates, int target) {
+    public List<List<Integer>> combinationSum(int[] candidates, int target) {
         // 候选数不重复，找到所有候选数相加等于target
         // 一个候选数可以用无限次
         // 主要就是 dfs 回溯
